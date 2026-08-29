@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:30:08.264Z",
+  "updated_at": "2026-08-29T17:30:58.618Z",
   "avatars": [
     {
       "id": "gcuc9vj8zmtehm013",
@@ -162,6 +162,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-29T15:11:56.481Z"
+    },
+    {
+      "id": "at07wrhq4mtenps1a",
+      "name": "Dead by Daylight",
+      "description": "",
+      "color": "#9D00FF",
+      "created_date": "2026-08-29T17:30:58.222Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-08-29T17:30:58.222Z"
     }
   ]
 }
