@@ -1,11 +1,33 @@
 {
-  "updated_at": "2026-08-30T11:23:42.228Z",
+  "updated_at": "2026-08-30T11:27:26.003Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
       "email": "superweb.aym.anibal@gmail.com",
       "full_name": "Aníbal Sopa",
-      "role": "admin"
+      "role": "admin",
+      "password": "scrypt$574efd63159541e494a659c4efe3a034$461619a942fa3b8549cd9433e689f0094db90ca57ab16ea1f89922b0c0867fc6d35591974f362ccfaabff807afb891bce2e2e8f6976979a61a9de6579cdf4bb2"
+    },
+    {
+      "id": "admin-id",
+      "email": "admin@sopa.com",
+      "full_name": "Aníbal Sopa",
+      "role": "admin",
+      "password": "scrypt$73cbdacd14354d8207c023d360783ffe$be1076eaab08cb7089d6e2cdefc7dfa681dc5135d69fe709a690a5ca1f954e5fadb5307417e07fd362cdfb2797e20568eaaf337eaaa68d13315b41acd61d4ef9"
+    },
+    {
+      "id": "user-id",
+      "email": "user@sopa.com",
+      "full_name": "Sapo User",
+      "role": "user",
+      "password": "scrypt$d0ce038f6af5798cfd65f928b7e59dd6$1131df78d426a06cb15ce6d2e85c9da9ca36384f98b1dc9f10886a7bc92b972d2f476a1bf85c1da0c45d68f8c7f7e3e3e29eda0e05d40f2d025bbfaa65f2077f"
+    },
+    {
+      "id": "user_y2srvc4cu",
+      "email": "norastreable@gmail.com",
+      "full_name": "anibal2",
+      "role": "user",
+      "password": "scrypt$c1df3b7c2e98f46b49951812bbce964f$ab6ca77dedafd26fe316bf81d32ec01673311b473cc9823ac2854f584783df7ddb97dc7a63bd10692059be746dd7e6230bf9ed76c43a6b3da5503736e6d10ef2"
     }
   ]
 }
