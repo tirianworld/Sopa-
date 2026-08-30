@@ -1,0 +1,16 @@
+{
+  "updated_at": "2026-08-30T12:09:39.701Z",
+  "fonts": [],
+  "config": {
+    "avatar_title_font_id": "font_bebas",
+    "avatar_title_font_family": "Bebas Neue",
+    "letter_spacing": "0.06em",
+    "text_transform": "uppercase",
+    "font_weight": "800",
+    "category_fonts": {
+      "d&d": "font_cinzel",
+      "dead by daylight": "font_creepster",
+      "sopa": "font_bebas"
+    }
+  }
+}
