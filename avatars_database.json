@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:51:21.478Z",
+  "updated_at": "2026-08-30T12:52:02.640Z",
   "avatars": [
     {
       "id": "gcuc9vj8zmtehm013",
@@ -242,6 +242,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-29T17:30:58.222Z"
+    },
+    {
+      "id": "ge1gfi7sbmtft6gw5",
+      "name": "Burglin' Gnomes",
+      "description": "",
+      "color": "#EAB308",
+      "created_date": "2026-08-30T12:51:41.189Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-08-30T12:51:41.189Z"
     }
   ]
 }
