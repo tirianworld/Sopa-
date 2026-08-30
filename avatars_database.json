@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T14:47:46.230Z",
+  "updated_at": "2026-08-30T14:47:54.022Z",
   "avatars": [
     {
       "id": "gcuc9vj8zmtehm013",
@@ -292,16 +292,6 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-30T12:51:41.189Z"
-    },
-    {
-      "id": "zqvd1fljhmtfwugdp",
-      "name": "Balatro",
-      "description": "",
-      "color": "#3B82F6",
-      "created_date": "2026-08-30T14:34:19.117Z",
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com",
-      "updated_date": "2026-08-30T14:34:19.117Z"
     }
   ]
 }
