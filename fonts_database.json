@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:12:24.943Z",
+  "updated_at": "2026-08-30T12:12:30.427Z",
   "fonts": [
     {
       "id": "k33xzvmidmtfrrjhx",
@@ -25,10 +25,10 @@
     "text_transform": "uppercase",
     "font_weight": "800",
     "category_fonts": {
-      "d&d": "font_bangers",
+      "d&d": "k33xzvmidmtfrrjhx",
       "dead by daylight": "font_creepster",
       "sopa": "font_bebas"
     },
-    "updated_date": "2026-08-30T12:12:20.170Z"
+    "updated_date": "2026-08-30T12:12:21.588Z"
   }
 }
