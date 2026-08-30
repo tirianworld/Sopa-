@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:52:08.299Z",
+  "updated_at": "2026-08-30T12:52:15.122Z",
   "fonts": [
     {
       "id": "k33xzvmidmtfrrjhx",
@@ -91,8 +91,9 @@
     "category_fonts": {
       "d&d": "k33xzvmidmtfrrjhx",
       "dead by daylight": "80lq0x79ymtfs369b",
-      "sopa": "87lc2c5mkmtfrz6fi"
+      "sopa": "87lc2c5mkmtfrz6fi",
+      "burglin' gnomes": "b92c44cfbmtft61mo"
     },
-    "updated_date": "2026-08-30T12:21:11.698Z"
+    "updated_date": "2026-08-30T12:51:49.212Z"
   }
 }
