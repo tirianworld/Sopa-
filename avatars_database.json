@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T15:03:31.903Z",
+  "updated_at": "2026-08-31T15:48:03.630Z",
   "total_avatars": 36,
   "total_parts": 2,
   "part": 1,
@@ -63,6 +63,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-31T14:39:10.600Z"
+    },
+    {
+      "id": "zy0ug08iemthejv04",
+      "name": "Mazmorreo en WoW",
+      "description": "",
+      "color": "#00ffb3",
+      "created_date": "2026-08-31T15:37:44.116Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-08-31T15:39:16.925Z"
     }
   ],
   "avatars": [
