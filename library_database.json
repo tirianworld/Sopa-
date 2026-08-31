@@ -1,0 +1,262 @@
+{
+  "updated_at": "2026-08-31T15:52:30.911Z",
+  "books": [
+    {
+      "id": "book_cyberpunk_chronicle",
+      "title": "Cyberpunk 2099: Neo-Tokyo Chronicle",
+      "author": "Kenji Takahashi & Elena Rostova",
+      "description": "Novela gráfica y cómic futurista a todo color. En el año 2099, una detective cibernética y un contrabandista de memorias desentrañan una conspiración en las megacorporaciones de Neo-Tokyo.",
+      "cover_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80",
+      "category": "comic",
+      "total_pages": 8,
+      "tags": [
+        "Sci-Fi",
+        "Cyberpunk",
+        "Cómic",
+        "Acción",
+        "Arte Digital"
+      ],
+      "likes": 342,
+      "views": 1850,
+      "is_sample": true,
+      "created_date": "2026-08-20T10:00:00.000Z",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Portada: Neo-Tokyo 2099",
+          "image_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "# CYBERPUNK 2099\n### NEO-TOKYO CHRONICLE\n*Volumen I: Sombras de Neón*"
+        },
+        {
+          "page_number": 2,
+          "title": "Prólogo: La Lluvia Ácida",
+          "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "La lluvia nunca dejaba de caer sobre el Sector 4. Los reflejos holográficos de las pantallas gigantes iluminaban los callejones donde la policía biometrizada ya no se atrevía a entrar."
+        },
+        {
+          "page_number": 3,
+          "title": "Acto 1: El Contacto en el Bar Sintético",
+          "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "\"¿Tienes el chip de memoria cuántica?\" —preguntó Kira, ajustando su visor de realidad aumentada. El informante asintió con temor mientras los drones de seguridad sobrevolaban la azotea."
+        },
+        {
+          "page_number": 4,
+          "title": "Persecución en las Alturas",
+          "image_url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Los aerodeslizadores cortaban la niebla tóxica a 300 km/h entre rascacielos de mil pisos. Un solo fallo en los propulsores gravitacionales significaba una caída al vacío eterno."
+        },
+        {
+          "page_number": 5,
+          "title": "El Laboratorio Clandestino",
+          "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Dentro del laboratorio secreto en las catacumbas de la red, los datos desencriptados revelaron el Proyecto Quimera: una IA capaz de reescribir los recuerdos de toda la población."
+        },
+        {
+          "page_number": 6,
+          "title": "El Enfrentamiento Final",
+          "image_url": "https://images.unsplash.com/photo-1563089145-599997674d42?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Kira desenfundó su rifle de plasma ionizado. \"La verdad ya no les pertenece a las corporaciones\", susurró antes de pulsar la tecla de transmisión global."
+        },
+        {
+          "page_number": 7,
+          "title": "Amanecer sobre las Cenizas de Silicio",
+          "image_url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Por primera vez en treinta años, la señal libre volvió a inundar las pantallas de la metrópoli. La rebelión digital acababa de comenzar."
+        },
+        {
+          "page_number": 8,
+          "title": "Contraportada & Créditos",
+          "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Diseño e Ilustraciones originales para SOPA+ Editorial. Próximo capítulo: *Quimera Resucitada*."
+        }
+      ]
+    },
+    {
+      "id": "book_cinema_artbook",
+      "title": "El Arte y Dirección de Cine: Visiones Maestras",
+      "author": "Academia SOPA de Cinematografía",
+      "description": "Artbook exclusivo de dirección cinematográfica, planos de rodaje, storyboard, paletas de color cromáticas y secretos de iluminación de grandes obras del cine.",
+      "cover_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&auto=format&fit=crop&q=80",
+      "category": "artbook",
+      "total_pages": 8,
+      "tags": [
+        "Cine",
+        "Artbook",
+        "Dirección",
+        "Fotografía",
+        "Storyboards"
+      ],
+      "likes": 512,
+      "views": 2940,
+      "is_sample": true,
+      "created_date": "2026-08-21T14:30:00.000Z",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Portada: El Arte Cinematográfico",
+          "image_url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "# EL ARTE Y DIRECCIÓN DE CINE\n### Visiones Maestras & Guía Visual\n*Edición Exclusiva para Directores y Cinéfilos*"
+        },
+        {
+          "page_number": 2,
+          "title": "Capítulo 1: La Regla de los Tercios y el Punto de Fuga",
+          "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "La composición visual guía la mirada subconsciente del espectador. El equilibrio entre el espacio negativo y las líneas convergentes dota a cada fotograma de tensión dramática."
+        },
+        {
+          "page_number": 3,
+          "title": "Capítulo 2: Psicología del Color y Temperatura",
+          "image_url": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "La paleta cian y ámbar (Teal & Orange) genera el mayor contraste cromático natural de la piel humana contra fondos cinematográficos atmosféricos."
+        },
+        {
+          "page_number": 4,
+          "title": "Capítulo 3: Iluminación de Tres Puntos y Chiaroscuro",
+          "image_url": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Luz principal (Key Light), luz de relleno (Fill) y contraluz (Rim Light). La escultura de sombras define el volumen del rostro y la profundidad de la escena."
+        },
+        {
+          "page_number": 5,
+          "title": "Capítulo 4: El Storyboard como Lenguaje Emocional",
+          "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Cada viñeta dibujada antes del rodaje ahorra horas en el set. El movimiento de cámara prediseñado sincroniza el ritmo del corte con el pulso cardíaco del público."
+        },
+        {
+          "page_number": 6,
+          "title": "Capítulo 5: El Poder del Primer Plano (Close-up)",
+          "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "En un primer plano cerrado, una microexpresión en la mirada del actor comunica más que diez páginas de diálogo escrito. El lente de 85mm añaísla el alma del personaje."
+        },
+        {
+          "page_number": 7,
+          "title": "Capítulo 6: Diseño Sonoro Diegético y la Música",
+          "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "El 50% de la experiencia del cine es lo que no se ve pero se siente. El diseño sonoro espacial sitúa la emoción antes de que los ojos procesen la imagen."
+        },
+        {
+          "page_number": 8,
+          "title": "Contraportada & Manifiesto SOPA+",
+          "image_url": "https://images.unsplash.com/photo-1574267432553-4b4628081c31?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Todo gran cine comienza con una idea y el coraje de plasmarla en la pantalla. SOPA+ Cinema Library."
+        }
+      ]
+    },
+    {
+      "id": "book_manga_abyss_guardians",
+      "title": "Manga: Guardianes del Abismo (Capítulo 1)",
+      "author": "Ryuichi Kurosawa",
+      "description": "Manga de acción y fantasía oscura en formato viñetas clásicas de alto impacto. En un mundo sumergido bajo nieblas demoníacas, los caballeros de la orden lunar protegen el último santuario.",
+      "cover_url": "https://images.unsplash.com/photo-1563089145-599997674d42?w=800&auto=format&fit=crop&q=80",
+      "category": "manga",
+      "total_pages": 6,
+      "tags": [
+        "Manga",
+        "Shonen",
+        "Fantasía",
+        "Espadas",
+        "Acción"
+      ],
+      "likes": 489,
+      "views": 2310,
+      "is_sample": true,
+      "created_date": "2026-08-22T09:15:00.000Z",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Portada: El Despertar de la Hoja Lunar",
+          "image_url": "https://images.unsplash.com/photo-1563089145-599997674d42?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "# GUARDIANES DEL ABISMO\n*Capítulo 1: La Noche del Eclipse Rojo*"
+        },
+        {
+          "page_number": 2,
+          "title": "Las Campanas de Medianoche",
+          "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "¡DON! ¡DON! Las campanas de la torre del vigía sonaron tres veces. Las bestias del abismo habían roto el tercer sello de obsidiana."
+        },
+        {
+          "page_number": 3,
+          "title": "El Juramento de Ren",
+          "image_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "\"No retrocederé ni un solo paso\", juró Ren mientras desenfundaba su katana envuelta en llamas azules. \"Por aquellos que esperan en la fortaleza\"."
+        },
+        {
+          "page_number": 4,
+          "title": "Danza de Corte Espiritual",
+          "image_url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "¡ZAAAASH! En una fracción de segundo, tres sombras colosales cayeron divididas por la técnica del corte lunar."
+        },
+        {
+          "page_number": 5,
+          "title": "La Llegada del General Sombrío",
+          "image_url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "De la humareda emergió una figura con armadura pesada y cuernos de dragón. \"Interesante... todavía queda un espadachín con sangre del dragón blanco\"."
+        },
+        {
+          "page_number": 6,
+          "title": "Continuará en el Capítulo 2",
+          "image_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "El enfrentamiento decisivo comenzará al alba. Disponible la próxima semana en SOPA+ Manga Club."
+        }
+      ]
+    },
+    {
+      "id": "book_sopa_premiere_magazine",
+      "title": "Revista SOPA Premiere: Especial Cine & Festivales",
+      "author": "Equipo Editorial SOPA+",
+      "description": "Revista digital interactiva de estrenos, entrevistas exclusivas con directores y actores, análisis de efectos visuales y lanzamientos de la temporada.",
+      "cover_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&auto=format&fit=crop&q=80",
+      "category": "revista",
+      "total_pages": 6,
+      "tags": [
+        "Revista",
+        "Editorial",
+        "Estrenos",
+        "Entrevistas",
+        "Tendencias"
+      ],
+      "likes": 275,
+      "views": 1420,
+      "is_sample": true,
+      "created_date": "2026-08-23T16:00:00.000Z",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Portada Revista Premiere",
+          "image_url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "# SOPA PREMIERE MAGAZINE\n*Edición Especial: La Nueva Era del Streaming Interactivo*"
+        },
+        {
+          "page_number": 2,
+          "title": "Editorial & Índice de Contenidos",
+          "image_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Este mes exploramos cómo la tecnología inmersiva está transformando las salas de cine hogareñas y el auge del cine independiente internacional."
+        },
+        {
+          "page_number": 3,
+          "title": "Entrevista Exclusiva: Los Nuevos Maestros del Thriller",
+          "image_url": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "\"El suspense moderno no depende de los sobresaltos, sino de la empatía vulnerable con el personaje principal\", comenta el galardonado director en su última entrevista."
+        },
+        {
+          "page_number": 4,
+          "title": "Reportaje: Detrás de las Cámaras en 8K",
+          "image_url": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Cámaras de formato medio, ópticas anamórficas vintage y etalonaje en tiempo real: los avances tecnológicos que redefinen la textura del cine contemporáneo."
+        },
+        {
+          "page_number": 5,
+          "title": "Críticas & Top 10 Recomendaciones",
+          "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Descubre nuestra selección de joyas ocultas disponibles en el catálogo de SOPA+, con puntuaciones de la crítica y reseñas de la comunidad."
+        },
+        {
+          "page_number": 6,
+          "title": "Próxima Edición & Suscripción VIP",
+          "image_url": "https://images.unsplash.com/photo-1574267432553-4b4628081c31?w=1000&auto=format&fit=crop&q=85",
+          "text_content": "Sintoniza el canal SOPA 24/7 y no te pierdas el festival anual de cortometrajes. ¡Gracias por leer SOPA Premiere!"
+        }
+      ]
+    }
+  ],
+  "bookProgress": []
+}
