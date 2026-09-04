@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T16:30:33.389Z",
+  "updated_at": "2026-09-04T16:35:15.670Z",
   "movies": [],
   "series": [
     {
@@ -608,6 +608,17 @@
       "user_id": "user_y2srvc4cu",
       "updated_date": "2026-09-04T15:07:04.494Z",
       "created_date": "2026-09-04T15:07:02.712Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com"
+    },
+    {
+      "id": "rating_6a42a5043e4134332f4c81e1_1788539714668",
+      "content_id": "6a42a5043e4134332f4c81e1",
+      "content_type": "series",
+      "rating": "love",
+      "user_id": "user_y2srvc4cu",
+      "updated_date": "2026-09-04T16:35:15.179Z",
+      "created_date": "2026-09-04T16:35:15.179Z",
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com"
     }
