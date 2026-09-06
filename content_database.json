@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:17:53.556Z",
+  "updated_at": "2026-09-06T22:18:15.315Z",
   "movies": [],
   "series": [
     {
@@ -170,13 +170,13 @@
       "title": "BURGLIN GNOMES",
       "thumbnail_url": "https://i.imgur.com/IP83SMo.png",
       "horizontal_image_url": "https://i.imgur.com/vo6h8xp.png",
-      "views": 96,
+      "views": 92,
       "trailer_url": "https://youtu.be/h43bHXcpXeo",
       "status": "approved",
       "tags": [],
       "id": "6a3f97cec50786d4155ac304",
       "created_date": "2026-06-27T09:28:46.552000",
-      "updated_date": "2026-09-06T22:17:53.105Z",
+      "updated_date": "2026-09-06T18:35:01.955Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -209,13 +209,13 @@
       "title": "Muck",
       "thumbnail_url": "https://i.imgur.com/MlMrIfy.png",
       "horizontal_image_url": "https://i.imgur.com/SrF9yiZ.png",
-      "views": 114,
+      "views": 115,
       "trailer_url": "https://youtu.be/akh3qI_qyEM",
       "status": "approved",
       "tags": [],
       "id": "6a3e7b9f8bd3250673ca6f51",
       "created_date": "2026-06-26T13:16:15.549000",
-      "updated_date": "2026-09-06T18:26:55.703Z",
+      "updated_date": "2026-09-06T22:18:14.820Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
