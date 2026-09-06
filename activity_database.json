@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-06T18:10:30.586Z",
+  "updated_at": "2026-09-06T18:13:45.444Z",
   "watchProgress": [],
-  "myList": [
-    {
-      "id": "j395xzop4mtq4nend",
-      "content_id": "6a3f97cec50786d4155ac304",
-      "content_type": "series",
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com",
-      "user_id": "user_y2srvc4cu",
-      "created_date": "2026-09-06T18:10:28.969Z",
-      "updated_date": "2026-09-06T18:10:28.969Z"
-    }
-  ],
+  "myList": [],
   "downloads": []
 }
