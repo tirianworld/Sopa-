@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:18:15.515Z",
+  "updated_at": "2026-09-06T18:09:22.037Z",
   "movies": [],
   "series": [
     {
@@ -249,12 +249,12 @@
       "title": "¿Que coño es? D&D Edition",
       "thumbnail_url": "https://i.imgur.com/K9kKzOi.png",
       "horizontal_image_url": "https://i.imgur.com/VqU5TRO.png",
-      "views": 19,
+      "views": 21,
       "status": "approved",
       "tags": [],
       "id": "6a3e50d7e936b779ece0952f",
       "created_date": "2026-06-26T10:13:43.807000",
-      "updated_date": "2026-07-02T14:09:55.840000",
+      "updated_date": "2026-09-06T18:09:21.537Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -608,28 +608,6 @@
       "user_id": "user_y2srvc4cu",
       "updated_date": "2026-09-04T15:07:04.494Z",
       "created_date": "2026-09-04T15:07:02.712Z",
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com"
-    },
-    {
-      "id": "rating_6a42a5043e4134332f4c81e1_1788539714668",
-      "content_id": "6a42a5043e4134332f4c81e1",
-      "content_type": "series",
-      "rating": "love",
-      "user_id": "user_y2srvc4cu",
-      "updated_date": "2026-09-04T16:35:52.481Z",
-      "created_date": "2026-09-04T16:35:14.668Z",
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com"
-    },
-    {
-      "id": "rating_6a4298b36a93b1ad8806d3fd_1788542604309",
-      "content_id": "6a4298b36a93b1ad8806d3fd",
-      "content_type": "series",
-      "rating": "like",
-      "user_id": "user_y2srvc4cu",
-      "updated_date": "2026-09-04T17:23:47.006Z",
-      "created_date": "2026-09-04T17:23:24.309Z",
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com"
     }
