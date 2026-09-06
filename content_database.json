@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T18:23:14.012Z",
+  "updated_at": "2026-09-06T18:24:13.259Z",
   "movies": [],
   "series": [
     {
@@ -209,13 +209,13 @@
       "title": "Muck",
       "thumbnail_url": "https://i.imgur.com/MlMrIfy.png",
       "horizontal_image_url": "https://i.imgur.com/SrF9yiZ.png",
-      "views": 111,
+      "views": 112,
       "trailer_url": "https://youtu.be/akh3qI_qyEM",
       "status": "approved",
       "tags": [],
       "id": "6a3e7b9f8bd3250673ca6f51",
       "created_date": "2026-06-26T13:16:15.549000",
-      "updated_date": "2026-09-06T18:23:12.966Z",
+      "updated_date": "2026-09-06T18:24:12.763Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
