@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T16:30:21.209Z",
+  "updated_at": "2026-09-07T16:47:30.558Z",
   "movies": [],
   "series": [
     {
@@ -565,14 +565,14 @@
       "title": "Libro de Tarot",
       "thumbnail_url": "https://i.imgur.com/eEepkGU.png",
       "horizontal_image_url": "https://i.imgur.com/kyiSemE.png",
-      "views": 15,
+      "views": 16,
       "status": "approved",
       "tags": [
         "Wiki"
       ],
       "id": "6a44ec88acfb90cb56dc4b44",
       "created_date": "2026-07-01T10:31:36.198000",
-      "updated_date": "2026-08-29T18:49:13.184000",
+      "updated_date": "2026-09-07T16:47:28.559Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
