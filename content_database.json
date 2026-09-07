@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:07:24.432Z",
+  "updated_at": "2026-09-07T19:28:16.457Z",
   "movies": [],
   "series": [
     {
@@ -91,13 +91,13 @@
       "title": "Balatro",
       "thumbnail_url": "https://i.imgur.com/W3pUf8R.png",
       "horizontal_image_url": "https://i.imgur.com/Tnnii1s.png",
-      "views": 12,
+      "views": 13,
       "trailer_url": null,
       "status": "approved",
       "tags": [],
       "id": "6a42abc73d8c27acf84344db",
       "created_date": "2026-06-29T17:30:47.323000",
-      "updated_date": "2026-07-03T07:54:31.570000",
+      "updated_date": "2026-09-07T19:28:14.877Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
