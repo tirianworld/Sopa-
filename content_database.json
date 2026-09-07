@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T19:57:59.266Z",
+  "updated_at": "2026-09-07T19:58:07.815Z",
   "movies": [],
   "series": [
     {
@@ -53,12 +53,12 @@
       "title": "Rocket League",
       "thumbnail_url": "https://i.imgur.com/9tRf1C0.png",
       "horizontal_image_url": "https://i.imgur.com/jryN01N.png",
-      "views": 0,
+      "views": 1,
       "status": "approved",
       "tags": [],
       "id": "6a453b8668e01df311e12b35",
       "created_date": "2026-07-01T16:08:38.573000",
-      "updated_date": "2026-07-02T11:03:46.835000",
+      "updated_date": "2026-09-07T19:57:57.155Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
