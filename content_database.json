@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T16:40:58.984Z",
+  "updated_at": "2026-09-08T16:53:48.903Z",
   "movies": [],
   "series": [
     {
@@ -150,13 +150,13 @@
       "title": "Mazmorreo en WoW",
       "thumbnail_url": "https://i.imgur.com/qFRUSGa.png",
       "horizontal_image_url": "https://i.imgur.com/TLdeWqH.png",
-      "views": 11,
+      "views": 12,
       "trailer_url": null,
       "status": "approved",
       "tags": [],
       "id": "6a4060fd82bb14418f6c19fa",
       "created_date": "2026-06-27T23:47:09.946000",
-      "updated_date": "2026-08-31T15:35:50.604Z",
+      "updated_date": "2026-09-08T16:53:47.907Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
