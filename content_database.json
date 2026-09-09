@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:09:41.741Z",
+  "updated_at": "2026-09-09T04:47:21.488Z",
   "movies": [],
   "series": [
     {
@@ -111,13 +111,13 @@
       "title": "Dos TONTOS desactivan una BOMBA....",
       "thumbnail_url": "https://i.imgur.com/nhi8FrP.png",
       "horizontal_image_url": "https://i.imgur.com/WWvjctZ.png",
-      "views": 17,
+      "views": 18,
       "trailer_url": null,
       "status": "approved",
       "tags": [],
       "id": "6a42a5043e4134332f4c81e1",
       "created_date": "2026-06-29T17:01:56.808000",
-      "updated_date": "2026-09-08T08:07:11.193Z",
+      "updated_date": "2026-09-09T04:47:20.544Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
