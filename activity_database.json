@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T17:09:21.100Z",
+  "updated_at": "2026-09-10T17:41:15.927Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -20,12 +20,12 @@
       "content_type": "series",
       "series_id": "i6e7110nymtvj7fbt",
       "user_id": "user_y2srvc4cu",
-      "position": 29,
+      "position": 1023,
       "duration": 1052,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T13:12:11.601Z",
-      "updated_date": "2026-09-10T17:06:46.859Z"
+      "updated_date": "2026-09-10T16:45:55.978Z"
     },
     {
       "id": "ua54lhbvmmtvre985",
@@ -33,12 +33,12 @@
       "content_type": "series",
       "series_id": "i6e7110nymtvj7fbt",
       "user_id": "user_y2srvc4cu",
-      "position": 131,
-      "duration": 1418,
+      "position": 46,
+      "duration": 1417,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T16:46:04.085Z",
-      "updated_date": "2026-09-10T17:09:17.255Z"
+      "updated_date": "2026-09-10T17:41:14.327Z"
     }
   ],
   "myList": [
