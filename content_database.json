@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:50:27.229Z",
+  "updated_at": "2026-09-10T12:56:49.015Z",
   "movies": [],
   "series": [
     {
@@ -258,6 +258,31 @@
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
+    },
+    {
+      "id": "i6e7110nymtvj7fbt",
+      "title": "La gran Pesca",
+      "description": "Sopa se va de pesca, y entre violencia, pescado y dinamita, lograrán escapar de las islas en las que han acabado?",
+      "thumbnail_url": "https://i.imgur.com/j7coAis.png",
+      "horizontal_image_url": "https://i.imgur.com/lE8CqgB.png",
+      "year": "2026",
+      "age_rating": "13",
+      "seasons": 1,
+      "tags": [
+        "Humor",
+        "Supervivencia",
+        "Violencia"
+      ],
+      "related_series_ids": [
+        "6a3e7b9f8bd3250673ca6f51",
+        "6a3f97cec50786d4155ac304"
+      ],
+      "status": "pending",
+      "views": 0,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-10T12:56:48.473Z",
+      "updated_date": "2026-09-10T12:56:48.473Z"
     }
   ],
   "episodes": [
