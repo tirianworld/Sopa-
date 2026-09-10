@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:04:17.966Z",
+  "updated_at": "2026-09-10T13:08:19.275Z",
   "movies": [],
   "series": [
     {
@@ -278,12 +278,11 @@
         "6a3f97cec50786d4155ac304"
       ],
       "status": "approved",
-      "views": 2,
+      "views": 0,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-10T13:04:17.465Z",
-      "featured": false
+      "updated_date": "2026-09-10T13:00:53.793Z"
     }
   ],
   "episodes": [
@@ -558,21 +557,6 @@
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
-    },
-    {
-      "id": "uo0gw19nomtvjfxc6",
-      "series_id": "i6e7110nymtvj7fbt",
-      "title": "Pesca con Autistas: [How To Fish]",
-      "description": "",
-      "video_url": "https://youtu.be/sXCKu1hANzQ",
-      "thumbnail_url": "https://i.imgur.com/sndCl9V.png",
-      "duration": "17.32 min",
-      "season": 1,
-      "episode_number": 1,
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com",
-      "created_date": "2026-09-10T13:03:25.062Z",
-      "updated_date": "2026-09-10T13:03:25.062Z"
     }
   ],
   "webapps": [
