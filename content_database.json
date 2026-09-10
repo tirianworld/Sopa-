@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:45:38.220Z",
+  "updated_at": "2026-09-10T16:46:45.265Z",
   "movies": [],
   "series": [
     {
@@ -278,11 +278,11 @@
         "6a3f97cec50786d4155ac304"
       ],
       "status": "approved",
-      "views": 7,
+      "views": 8,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-10T14:44:47.768Z",
+      "updated_date": "2026-09-10T16:46:44.754Z",
       "featured": false
     }
   ],
