@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:25:10.615Z",
+  "updated_at": "2026-09-10T09:43:53.883Z",
   "movies": [],
   "series": [
     {
@@ -294,7 +294,7 @@
       "is_sample": false
     },
     {
-      "duration": "15.19 min",
+      "duration": "919 s",
       "episode_number": 2,
       "video_url": "https://youtu.be/jYyxSiWdjXo",
       "season": 1,
@@ -304,7 +304,7 @@
       "series_id": "6a4298b36a93b1ad8806d3fd",
       "id": "6a4299728bda402e4a058b89",
       "created_date": "2026-06-29T16:12:34.924000",
-      "updated_date": "2026-06-29T16:12:34.924000",
+      "updated_date": "2026-09-10T09:43:53.385Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
