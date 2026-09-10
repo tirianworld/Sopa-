@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T12:56:49.015Z",
+  "updated_at": "2026-09-10T13:00:54.309Z",
   "movies": [],
   "series": [
     {
@@ -277,12 +277,12 @@
         "6a3e7b9f8bd3250673ca6f51",
         "6a3f97cec50786d4155ac304"
       ],
-      "status": "pending",
+      "status": "approved",
       "views": 0,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-10T12:56:48.473Z"
+      "updated_date": "2026-09-10T13:00:53.793Z"
     }
   ],
   "episodes": [
