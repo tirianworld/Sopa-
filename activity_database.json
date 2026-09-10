@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T11:59:17.911Z",
+  "updated_at": "2026-09-10T13:04:05.956Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -35,6 +35,16 @@
       "user_id": "user_y2srvc4cu",
       "created_date": "2026-09-06T18:13:54.905Z",
       "updated_date": "2026-09-06T18:13:54.905Z"
+    },
+    {
+      "id": "vzx24wf6rmtvjgrnz",
+      "content_id": "i6e7110nymtvj7fbt",
+      "content_type": "series",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "user_id": "user_y2srvc4cu",
+      "created_date": "2026-09-10T13:04:04.367Z",
+      "updated_date": "2026-09-10T13:04:04.367Z"
     }
   ],
   "downloads": []
