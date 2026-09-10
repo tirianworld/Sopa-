@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:29:14.602Z",
+  "updated_at": "2026-09-10T16:45:38.220Z",
   "movies": [],
   "series": [
     {
@@ -573,6 +573,21 @@
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T13:03:25.062Z",
       "updated_date": "2026-09-10T13:03:25.062Z"
+    },
+    {
+      "id": "7d3dyl990mtvrdovq",
+      "series_id": "i6e7110nymtvj7fbt",
+      "title": "Mondongueros Pesqueros [How to Fish]",
+      "description": "",
+      "video_url": "https://youtu.be/vcz2b8DXZug",
+      "thumbnail_url": "https://i.imgur.com/hlo7Z62.png",
+      "duration": "23.28 min",
+      "season": 1,
+      "episode_number": 2,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-10T16:45:37.718Z",
+      "updated_date": "2026-09-10T16:45:37.718Z"
     }
   ],
   "webapps": [
@@ -649,6 +664,17 @@
       "user_id": "user_y2srvc4cu",
       "updated_date": "2026-09-04T15:07:04.494Z",
       "created_date": "2026-09-04T15:07:02.712Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com"
+    },
+    {
+      "id": "rating_i6e7110nymtvj7fbt_1789052007670",
+      "content_id": "i6e7110nymtvj7fbt",
+      "content_type": "series",
+      "rating": "like",
+      "user_id": "user_y2srvc4cu",
+      "updated_date": "2026-09-10T14:53:28.429Z",
+      "created_date": "2026-09-10T14:53:28.429Z",
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com"
     }
