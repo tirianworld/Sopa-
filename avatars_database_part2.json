@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T10:21:28.394Z",
-  "total_avatars": 36,
+  "updated_at": "2026-09-11T10:52:54.707Z",
+  "total_avatars": 37,
   "total_parts": 2,
   "part": 2,
   "avatars": [
@@ -63,6 +63,14 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-31T14:40:35.212Z"
+    },
+    {
+      "id": "rhvsytvwpmtwu7v4r",
+      "name": "Test Avatar Bot",
+      "category": "Sopa",
+      "image_url": "/api/avatars/image/rhvsytvwpmtwu7v4r.webp",
+      "created_date": "2026-09-11T10:52:51.804Z",
+      "updated_date": "2026-09-11T10:52:51.804Z"
     }
   ]
 }
