@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:56:21.463Z",
+  "updated_at": "2026-09-11T15:56:24.263Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -16,14 +16,6 @@
           "color": "from-rose-500 to-pink-700",
           "isKids": false,
           "email": "norastreable@gmail.com"
-        },
-        {
-          "id": "profile_u_6a3e4fb985107a263e0a7665",
-          "name": "Aníbal Sopa",
-          "avatar": "A",
-          "color": "from-[#00D4FF] to-[#9D00FF]",
-          "isKids": false,
-          "email": "superweb.aym.anibal@gmail.com"
         },
         {
           "id": "profile_u_user-id",
