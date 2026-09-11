@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:56:48.228Z",
+  "updated_at": "2026-09-11T15:56:53.163Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -24,14 +24,6 @@
           "color": "from-emerald-400 to-teal-600",
           "isKids": false,
           "id": "p_1789142168444"
-        },
-        {
-          "id": "profile_u_6a3e4fb985107a263e0a7665",
-          "name": "Aníbal Sopa",
-          "avatar": "A",
-          "color": "from-[#00D4FF] to-[#9D00FF]",
-          "isKids": false,
-          "email": "superweb.aym.anibal@gmail.com"
         },
         {
           "name": "Raxxar",
