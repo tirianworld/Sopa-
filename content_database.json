@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:30:13.194Z",
+  "updated_at": "2026-09-11T17:52:46.645Z",
   "movies": [],
   "series": [
     {
@@ -544,7 +544,7 @@
       "is_sample": false
     },
     {
-      "duration": "8.12 min",
+      "duration": "492 s",
       "episode_number": 1,
       "video_url": "https://youtu.be/voionx6nvNU",
       "season": 1,
@@ -554,7 +554,7 @@
       "series_id": "6a3e50d7e936b779ece0952f",
       "id": "6a3e52270814499381a08086",
       "created_date": "2026-06-26T10:19:19.449000",
-      "updated_date": "2026-06-26T10:19:19.449000",
+      "updated_date": "2026-09-11T17:52:45.299Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -664,17 +664,6 @@
       "user_id": "user_y2srvc4cu",
       "updated_date": "2026-09-04T15:07:04.494Z",
       "created_date": "2026-09-04T15:07:02.712Z",
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com"
-    },
-    {
-      "id": "rating_i6e7110nymtvj7fbt_1789052007670",
-      "content_id": "i6e7110nymtvj7fbt",
-      "content_type": "series",
-      "rating": "like",
-      "user_id": "user_y2srvc4cu",
-      "updated_date": "2026-09-10T14:53:28.429Z",
-      "created_date": "2026-09-10T14:53:28.429Z",
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com"
     }
