@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:56:08.899Z",
+  "updated_at": "2026-09-11T15:56:18.063Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -32,14 +32,6 @@
           "color": "from-amber-500 to-orange-600",
           "isKids": false,
           "email": "user@sopa.com"
-        },
-        {
-          "id": "profile_u_user_2yjkrnmkp",
-          "name": "Usuario Multi-dispositivo",
-          "avatar": "U",
-          "color": "from-purple-600 to-indigo-800",
-          "isKids": false,
-          "email": "cross_device_1788189626000@sopa.com"
         },
         {
           "id": "profile_kids",
