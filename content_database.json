@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:52:46.645Z",
+  "updated_at": "2026-09-11T17:52:58.127Z",
   "movies": [],
   "series": [
     {
@@ -170,13 +170,13 @@
       "title": "BURGLIN GNOMES",
       "thumbnail_url": "https://i.imgur.com/IP83SMo.png",
       "horizontal_image_url": "https://i.imgur.com/vo6h8xp.png",
-      "views": 97,
+      "views": 98,
       "trailer_url": "https://youtu.be/h43bHXcpXeo",
       "status": "approved",
       "tags": [],
       "id": "6a3f97cec50786d4155ac304",
       "created_date": "2026-06-27T09:28:46.552000",
-      "updated_date": "2026-09-07T12:01:08.276Z",
+      "updated_date": "2026-09-11T17:52:57.691Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
