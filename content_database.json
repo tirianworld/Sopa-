@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:39:08.870Z",
+  "updated_at": "2026-09-11T09:54:41.641Z",
   "movies": [],
   "series": [
     {
@@ -31,7 +31,7 @@
       "title": "Dead By Deadlight",
       "thumbnail_url": "https://i.imgur.com/FNfHt4L.png",
       "horizontal_image_url": "https://i.imgur.com/Zq4fSIA.png",
-      "views": 2,
+      "views": 3,
       "status": "approved",
       "tags": [
         "Terror",
@@ -39,7 +39,7 @@
       ],
       "id": "6a453c59aab43f0121290bde",
       "created_date": "2026-07-01T16:12:09.527000",
-      "updated_date": "2026-09-07T22:43:15.781Z",
+      "updated_date": "2026-09-11T09:54:41.147Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
