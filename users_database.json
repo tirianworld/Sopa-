@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:56:18.063Z",
+  "updated_at": "2026-09-11T15:56:21.463Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -32,13 +32,6 @@
           "color": "from-amber-500 to-orange-600",
           "isKids": false,
           "email": "user@sopa.com"
-        },
-        {
-          "id": "profile_kids",
-          "name": "Infantil",
-          "avatar": "👶",
-          "color": "from-amber-400 to-yellow-600",
-          "isKids": true
         },
         {
           "name": "Zer0_NadA",
