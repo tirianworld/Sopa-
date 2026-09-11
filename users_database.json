@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:56:24.263Z",
+  "updated_at": "2026-09-11T15:56:29.463Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -16,14 +16,6 @@
           "color": "from-rose-500 to-pink-700",
           "isKids": false,
           "email": "norastreable@gmail.com"
-        },
-        {
-          "id": "profile_u_user-id",
-          "name": "Sapo User",
-          "avatar": "S",
-          "color": "from-amber-500 to-orange-600",
-          "isKids": false,
-          "email": "user@sopa.com"
         },
         {
           "name": "Zer0_NadA",
