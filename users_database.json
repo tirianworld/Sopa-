@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:55:42.412Z",
+  "updated_at": "2026-09-11T15:55:46.463Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -15,14 +15,6 @@
           "color": "from-[#00D4FF] to-[#9D00FF]",
           "isKids": false,
           "email": "superweb.aym.anibal@gmail.com"
-        },
-        {
-          "id": "profile_u_user-id",
-          "name": "Sapo User",
-          "avatar": "S",
-          "color": "from-amber-500 to-orange-600",
-          "isKids": false,
-          "email": "user@sopa.com"
         },
         {
           "id": "profile_u_user_y2srvc4cu",
