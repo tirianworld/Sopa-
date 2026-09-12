@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:00:30.268Z",
+  "updated_at": "2026-09-12T22:01:46.516Z",
   "movies": [],
   "series": [
     {
@@ -190,12 +190,12 @@
       "title": "Explorando el Multiverso",
       "thumbnail_url": "https://i.imgur.com/5Hy2j7z.png",
       "horizontal_image_url": "https://i.imgur.com/wmQd1AG.png",
-      "views": 20,
+      "views": 21,
       "status": "approved",
       "tags": [],
       "id": "6a3e9acb09831d0c6537bdf9",
       "created_date": "2026-06-26T15:29:15.179000",
-      "updated_date": "2026-07-02T14:07:48.544000",
+      "updated_date": "2026-09-12T22:01:45.451Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
