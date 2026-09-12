@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:53:39.724Z",
+  "updated_at": "2026-09-12T23:16:51.566Z",
   "movies": [],
   "series": [
     {
@@ -72,12 +72,12 @@
       "title": "Escape The Backrooms",
       "thumbnail_url": "https://i.imgur.com/fw5dGlQ.png",
       "horizontal_image_url": "https://i.imgur.com/s1GaZwP.png",
-      "views": 10,
+      "views": 11,
       "status": "approved",
       "tags": [],
       "id": "6a43eb5e32bb136610e6dda2",
       "created_date": "2026-06-30T16:14:22.940000",
-      "updated_date": "2026-09-07T21:02:15.159Z",
+      "updated_date": "2026-09-12T23:16:51.089Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -209,13 +209,13 @@
       "title": "Muck",
       "thumbnail_url": "https://i.imgur.com/MlMrIfy.png",
       "horizontal_image_url": "https://i.imgur.com/SrF9yiZ.png",
-      "views": 122,
+      "views": 123,
       "trailer_url": "https://youtu.be/akh3qI_qyEM",
       "status": "approved",
       "tags": [],
       "id": "6a3e7b9f8bd3250673ca6f51",
       "created_date": "2026-06-26T13:16:15.549000",
-      "updated_date": "2026-09-12T22:45:40.112Z",
+      "updated_date": "2026-09-12T22:50:51.321Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
