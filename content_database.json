@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:40:09.112Z",
+  "updated_at": "2026-09-12T22:40:29.846Z",
   "movies": [],
   "series": [
     {
@@ -229,13 +229,13 @@
       "title": " Sekiro Sopa dies twice",
       "thumbnail_url": "https://i.imgur.com/i3eWYFc.png",
       "horizontal_image_url": "https://i.imgur.com/GJPLPJm.png",
-      "views": 47,
+      "views": 48,
       "trailer_url": "https://youtu.be/WbxARQQcsBU",
       "status": "approved",
       "tags": [],
       "id": "6a3e5a9b369176346576fdff",
       "created_date": "2026-06-26T10:55:23.507000",
-      "updated_date": "2026-09-12T22:40:08.574Z",
+      "updated_date": "2026-09-12T22:40:28.536Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
