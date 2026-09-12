@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:27:02.123Z",
+  "updated_at": "2026-09-12T19:32:51.769Z",
   "movies": [],
   "series": [
     {
@@ -642,14 +642,14 @@
       "title": "Atlas del Multiverso",
       "thumbnail_url": "https://i.imgur.com/fBulUy0.png",
       "horizontal_image_url": "https://i.imgur.com/cCJ0TYl.png",
-      "views": 24,
+      "views": 25,
       "status": "approved",
       "tags": [
         "Mapas"
       ],
       "id": "6a44e6350f31c681a5f654f7",
       "created_date": "2026-07-01T10:04:37.816000",
-      "updated_date": "2026-08-29T18:49:38.962000",
+      "updated_date": "2026-09-12T19:32:51.064Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
