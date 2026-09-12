@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:40:29.846Z",
+  "updated_at": "2026-09-12T22:42:10.378Z",
   "movies": [],
   "series": [
     {
@@ -250,11 +250,11 @@
       "thumbnail_url": "https://i.imgur.com/K9kKzOi.png",
       "horizontal_image_url": "https://i.imgur.com/VqU5TRO.png",
       "views": 22,
-      "status": "approved",
+      "status": "pending",
       "tags": [],
       "id": "6a3e50d7e936b779ece0952f",
       "created_date": "2026-06-26T10:13:43.807000",
-      "updated_date": "2026-09-08T09:42:45.013Z",
+      "updated_date": "2026-09-12T22:42:09.889Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
