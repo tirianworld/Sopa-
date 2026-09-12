@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T22:42:16.525Z",
+  "updated_at": "2026-09-12T22:45:30.923Z",
   "movies": [],
   "series": [
     {
@@ -191,11 +191,11 @@
       "thumbnail_url": "https://i.imgur.com/5Hy2j7z.png",
       "horizontal_image_url": "https://i.imgur.com/wmQd1AG.png",
       "views": 21,
-      "status": "pending",
+      "status": "approved",
       "tags": [],
       "id": "6a3e9acb09831d0c6537bdf9",
       "created_date": "2026-06-26T15:29:15.179000",
-      "updated_date": "2026-09-12T22:42:16.042Z",
+      "updated_date": "2026-09-12T22:01:45.451Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -229,13 +229,13 @@
       "title": " Sekiro Sopa dies twice",
       "thumbnail_url": "https://i.imgur.com/i3eWYFc.png",
       "horizontal_image_url": "https://i.imgur.com/GJPLPJm.png",
-      "views": 48,
+      "views": 47,
       "trailer_url": "https://youtu.be/WbxARQQcsBU",
       "status": "approved",
       "tags": [],
       "id": "6a3e5a9b369176346576fdff",
       "created_date": "2026-06-26T10:55:23.507000",
-      "updated_date": "2026-09-12T22:40:28.536Z",
+      "updated_date": "2026-09-08T00:18:16.491Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -250,11 +250,11 @@
       "thumbnail_url": "https://i.imgur.com/K9kKzOi.png",
       "horizontal_image_url": "https://i.imgur.com/VqU5TRO.png",
       "views": 22,
-      "status": "pending",
+      "status": "approved",
       "tags": [],
       "id": "6a3e50d7e936b779ece0952f",
       "created_date": "2026-06-26T10:13:43.807000",
-      "updated_date": "2026-09-12T22:42:09.889Z",
+      "updated_date": "2026-09-08T09:42:45.013Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
