@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:26:17.280Z",
+  "updated_at": "2026-09-13T11:26:30.446Z",
   "movies": [],
   "series": [
     {
@@ -283,7 +283,8 @@
       "tags": [
         "Humor",
         "Supervivencia",
-        "Violencia"
+        "Violencia",
+        "Cooperativo"
       ],
       "related_series_ids": [
         "6a3e7b9f8bd3250673ca6f51",
@@ -294,8 +295,15 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-13T10:05:30.884Z",
-      "featured": false
+      "updated_date": "2026-09-13T11:26:29.973Z",
+      "featured": false,
+      "category_ids": [
+        "new_series",
+        "horror",
+        "chill",
+        "coop"
+      ],
+      "excluded_category_ids": []
     },
     {
       "id": "jjeoy7fjqmtznybat",
