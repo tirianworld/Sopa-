@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:23:06.251Z",
+  "updated_at": "2026-09-13T10:25:28.986Z",
   "movies": [],
   "series": [
     {
@@ -629,6 +629,22 @@
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:23:05.774Z",
       "updated_date": "2026-09-13T10:23:05.774Z"
+    },
+    {
+      "id": "0l5cs4q80mtzo4d6i",
+      "series_id": "jjeoy7fjqmtznybat",
+      "title": "ESTO HA SIDO UNA MALA IDEA | HOLLOW KNIGHT 2. (Gilgamesh)",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=93P6_kL3U5g&t=1018s",
+      "thumbnail_url": "https://i.imgur.com/Sq7b0HH.png",
+      "duration": "19:43 min",
+      "season": 1,
+      "episode_number": 2,
+      "skip_intro_second": 15,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-13T10:25:28.506Z",
+      "updated_date": "2026-09-13T10:25:28.506Z"
     }
   ],
   "webapps": [
