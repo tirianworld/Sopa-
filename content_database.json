@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:25:28.986Z",
+  "updated_at": "2026-09-13T10:25:39.781Z",
   "movies": [],
   "series": [
     {
@@ -308,7 +308,8 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:20:46.133Z",
-      "updated_date": "2026-09-13T10:20:46.133Z"
+      "updated_date": "2026-09-13T10:25:39.307Z",
+      "featured": false
     }
   ],
   "episodes": [
