@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:26:46.960Z",
+  "updated_at": "2026-09-13T11:27:54.728Z",
   "movies": [],
   "series": [
     {
@@ -116,20 +116,31 @@
       "featured": false,
       "year": "2026",
       "age_rating": "16",
-      "description": "",
+      "description": "Tivuron y Getafe se ven obligados a desactivar una bomba, lo conseguirán? o explotaran en 100 pedazos?",
       "title": "Dos TONTOS desactivan una BOMBA....",
       "thumbnail_url": "https://i.imgur.com/nhi8FrP.png",
       "horizontal_image_url": "https://i.imgur.com/WWvjctZ.png",
       "views": 18,
       "trailer_url": null,
       "status": "approved",
-      "tags": [],
+      "tags": [
+        "Estrategia"
+      ],
       "id": "6a42a5043e4134332f4c81e1",
       "created_date": "2026-06-29T17:01:56.808000",
-      "updated_date": "2026-09-09T04:47:20.544Z",
+      "updated_date": "2026-09-13T11:27:54.254Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "coop",
+        "chill",
+        "strategy"
+      ],
+      "excluded_category_ids": [
+        "new_series"
+      ]
     },
     {
       "seasons": 1,
