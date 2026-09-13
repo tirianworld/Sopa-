@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T17:07:32.893Z",
+  "updated_at": "2026-09-13T17:14:53.132Z",
   "movies": [],
   "series": [
     {
@@ -677,6 +677,21 @@
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:25:28.506Z",
       "updated_date": "2026-09-13T10:25:28.506Z"
+    },
+    {
+      "id": "agzkil0d8mu02quzr",
+      "series_id": "loi58esm1mu027plk",
+      "title": "NOS QUIEREN TOCAR FUERTEMENTE - SCHEDULE I EP1",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=e5SwPTgZMhU",
+      "thumbnail_url": "https://i.imgur.com/f9ca7YF.png",
+      "duration": "15:06 min",
+      "season": 1,
+      "episode_number": 1,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-13T17:14:52.647Z",
+      "updated_date": "2026-09-13T17:14:52.647Z"
     }
   ],
   "webapps": [
