@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T10:20:46.607Z",
+  "updated_at": "2026-09-13T10:21:09.226Z",
   "movies": [],
   "series": [
     {
@@ -284,31 +284,6 @@
       "created_date": "2026-09-10T12:56:48.473Z",
       "updated_date": "2026-09-13T10:05:30.884Z",
       "featured": false
-    },
-    {
-      "id": "jjeoy7fjqmtznybat",
-      "title": "Hollow Knight Con GILGAMESH",
-      "description": "Un Joven Jaime se embarca en una aventura para explorar el mundo de Hallownest.",
-      "thumbnail_url": "https://i.imgur.com/o71Ssem.png",
-      "horizontal_image_url": "https://i.imgur.com/b3SyETC.png",
-      "year": "2026",
-      "age_rating": "7",
-      "seasons": 1,
-      "tags": [
-        "Humor",
-        "Un Solo Miembro",
-        "Acción"
-      ],
-      "related_series_ids": [
-        "6a3e5a9b369176346576fdff",
-        "6a42abc73d8c27acf84344db"
-      ],
-      "status": "approved",
-      "views": 0,
-      "created_by_id": "user_y2srvc4cu",
-      "created_by": "norastreable@gmail.com",
-      "created_date": "2026-09-13T10:20:46.133Z",
-      "updated_date": "2026-09-13T10:20:46.133Z"
     }
   ],
   "episodes": [
