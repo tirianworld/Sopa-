@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:30:58.939Z",
+  "updated_at": "2026-09-13T11:32:01.411Z",
   "movies": [],
   "series": [
     {
@@ -97,50 +97,30 @@
       "tags": [],
       "id": "6a42abc73d8c27acf84344db",
       "created_date": "2026-06-29T17:30:47.323000",
-      "updated_date": "2026-09-13T11:26:46.486Z",
+      "updated_date": "2026-09-07T19:28:14.877Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false,
-      "related_series_ids": [],
-      "category_ids": [
-        "chill",
-        "solo",
-        "strategy"
-      ],
-      "excluded_category_ids": [
-        "new_series"
-      ]
+      "is_sample": false
     },
     {
       "seasons": 1,
       "featured": false,
       "year": "2026",
       "age_rating": "16",
-      "description": "Tivuron y Getafe se ven obligados a desactivar una bomba, lo conseguirán? o explotaran en 100 pedazos?",
+      "description": "",
       "title": "Dos TONTOS desactivan una BOMBA....",
       "thumbnail_url": "https://i.imgur.com/nhi8FrP.png",
       "horizontal_image_url": "https://i.imgur.com/WWvjctZ.png",
       "views": 18,
       "trailer_url": null,
       "status": "approved",
-      "tags": [
-        "Estrategia"
-      ],
+      "tags": [],
       "id": "6a42a5043e4134332f4c81e1",
       "created_date": "2026-06-29T17:01:56.808000",
-      "updated_date": "2026-09-13T11:27:54.254Z",
+      "updated_date": "2026-09-09T04:47:20.544Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false,
-      "related_series_ids": [],
-      "category_ids": [
-        "coop",
-        "chill",
-        "strategy"
-      ],
-      "excluded_category_ids": [
-        "new_series"
-      ]
+      "is_sample": false
     },
     {
       "seasons": 1,
@@ -196,21 +176,10 @@
       "tags": [],
       "id": "6a3f97cec50786d4155ac304",
       "created_date": "2026-06-27T09:28:46.552000",
-      "updated_date": "2026-09-13T11:28:46.348Z",
+      "updated_date": "2026-09-13T02:59:59.053Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false,
-      "related_series_ids": [],
-      "category_ids": [
-        "coop",
-        "horror",
-        "chill",
-        "action",
-        "strategy"
-      ],
-      "excluded_category_ids": [
-        "new_series"
-      ]
+      "is_sample": false
     },
     {
       "seasons": 1,
@@ -246,22 +215,10 @@
       "tags": [],
       "id": "6a3e7b9f8bd3250673ca6f51",
       "created_date": "2026-06-26T13:16:15.549000",
-      "updated_date": "2026-09-13T11:26:16.800Z",
+      "updated_date": "2026-09-13T10:05:36.566Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false,
-      "related_series_ids": [],
-      "category_ids": [
-        "coop",
-        "chill",
-        "action",
-        "strategy"
-      ],
-      "excluded_category_ids": [
-        "solo",
-        "horror",
-        "new_series"
-      ]
+      "is_sample": false
     },
     {
       "seasons": 1,
@@ -278,20 +235,10 @@
       "tags": [],
       "id": "6a3e5a9b369176346576fdff",
       "created_date": "2026-06-26T10:55:23.507000",
-      "updated_date": "2026-09-13T11:28:34.757Z",
+      "updated_date": "2026-09-12T22:40:28.536Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false,
-      "related_series_ids": [],
-      "category_ids": [
-        "chill",
-        "solo",
-        "action"
-      ],
-      "excluded_category_ids": [
-        "new_series",
-        "horror"
-      ]
+      "is_sample": false
     },
     {
       "seasons": 1,
@@ -324,8 +271,7 @@
       "tags": [
         "Humor",
         "Supervivencia",
-        "Violencia",
-        "Cooperativo"
+        "Violencia"
       ],
       "related_series_ids": [
         "6a3e7b9f8bd3250673ca6f51",
@@ -336,15 +282,8 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-13T11:26:29.973Z",
-      "featured": false,
-      "category_ids": [
-        "new_series",
-        "horror",
-        "chill",
-        "coop"
-      ],
-      "excluded_category_ids": []
+      "updated_date": "2026-09-13T10:05:30.884Z",
+      "featured": false
     },
     {
       "id": "jjeoy7fjqmtznybat",
@@ -365,11 +304,11 @@
         "6a42abc73d8c27acf84344db"
       ],
       "status": "approved",
-      "views": 1,
+      "views": 0,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:20:46.133Z",
-      "updated_date": "2026-09-13T11:30:58.420Z",
+      "updated_date": "2026-09-13T10:25:39.307Z",
       "featured": false
     }
   ],
