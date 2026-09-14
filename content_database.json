@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:18:44.431Z",
+  "updated_at": "2026-09-14T16:59:23.392Z",
   "movies": [],
   "series": [
     {
@@ -335,11 +335,11 @@
       "excluded_category_ids": [],
       "related_series_ids": [],
       "status": "approved",
-      "views": 12,
+      "views": 10,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T16:59:59.192Z",
-      "updated_date": "2026-09-14T12:27:53.154Z",
+      "updated_date": "2026-09-14T16:59:22.914Z",
       "featured": false
     }
   ],
