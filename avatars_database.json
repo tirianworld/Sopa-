@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T10:26:10.166Z",
-  "total_avatars": 36,
+  "updated_at": "2026-09-14T10:27:06.146Z",
+  "total_avatars": 37,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -435,6 +435,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-31T14:40:35.212Z"
+    },
+    {
+      "id": "cja4o4gz5mu13mau6",
+      "name": "Aniban wow",
+      "category": "Mazmorreo en WoW",
+      "image_url": "/api/avatars/image/cja4o4gz5mu13mau6.webp",
+      "created_date": "2026-09-14T10:27:05.771Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-14T10:27:05.771Z"
     }
   ]
 }
