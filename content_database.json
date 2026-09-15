@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T09:39:02.836Z",
+  "updated_at": "2026-09-15T10:09:27.774Z",
   "movies": [],
   "series": [
     {
@@ -585,7 +585,7 @@
       "is_sample": false
     },
     {
-      "duration": "",
+      "duration": "1995 s",
       "episode_number": 1,
       "video_url": "https://www.youtube.com/watch?v=ug8hnD14oJA&t=28s",
       "season": 1,
@@ -595,7 +595,7 @@
       "series_id": "6a3e5a9b369176346576fdff",
       "id": "6a3e5acf863cfd175127ee65",
       "created_date": "2026-06-26T10:56:15.775000",
-      "updated_date": "2026-06-26T10:59:11.807000",
+      "updated_date": "2026-09-15T10:09:27.287Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -685,13 +685,13 @@
       "description": "",
       "video_url": "https://www.youtube.com/watch?v=e5SwPTgZMhU",
       "thumbnail_url": "https://i.imgur.com/f9ca7YF.png",
-      "duration": "15:06 min",
+      "duration": "907 s",
       "season": 1,
       "episode_number": 1,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T17:14:52.647Z",
-      "updated_date": "2026-09-13T17:14:52.647Z"
+      "updated_date": "2026-09-15T09:38:50.315Z"
     }
   ],
   "webapps": [
