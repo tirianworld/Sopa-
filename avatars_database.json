@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T11:31:42.860Z",
-  "total_avatars": 43,
+  "updated_at": "2026-09-15T11:31:54.628Z",
+  "total_avatars": 44,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -525,6 +525,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-15T11:18:11.386Z"
+    },
+    {
+      "id": "86m89kwkcmu2ldhzz",
+      "name": "Isnael skechule I",
+      "category": "Schedule I",
+      "image_url": "/api/avatars/image/86m89kwkcmu2ldhzz.webp",
+      "created_date": "2026-09-15T11:31:54.376Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T11:31:54.376Z"
     }
   ]
 }
