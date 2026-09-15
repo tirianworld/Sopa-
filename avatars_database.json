@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T11:31:54.628Z",
-  "total_avatars": 44,
+  "updated_at": "2026-09-15T11:34:23.982Z",
+  "total_avatars": 45,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -535,6 +535,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-15T11:31:54.376Z"
+    },
+    {
+      "id": "6gziikzz4mu2lgp9d",
+      "name": "Canva skechule I avatar",
+      "category": "Schedule I",
+      "image_url": "/api/avatars/image/6gziikzz4mu2lgp9d.webp",
+      "created_date": "2026-09-15T11:34:23.753Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T11:34:23.753Z"
     }
   ]
 }
