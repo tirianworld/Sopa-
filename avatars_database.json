@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T10:41:49.280Z",
-  "total_avatars": 39,
+  "updated_at": "2026-09-15T10:42:29.621Z",
+  "total_avatars": 40,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -475,6 +475,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-15T10:41:49.057Z"
+    },
+    {
+      "id": "tot1red80mu2jly78",
+      "name": "Getafe how to fish",
+      "category": "How to Fish",
+      "image_url": "/api/avatars/image/tot1red80mu2jly78.webp",
+      "created_date": "2026-09-15T10:42:29.388Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T10:42:29.388Z"
     }
   ]
 }
