@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T10:41:34.572Z",
-  "total_avatars": 38,
+  "updated_at": "2026-09-15T10:41:49.280Z",
+  "total_avatars": 39,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -465,6 +465,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-15T10:41:34.353Z"
+    },
+    {
+      "id": "xb6dsj14pmu2jl32z",
+      "name": "Verius how to fish",
+      "category": "How to Fish",
+      "image_url": "/api/avatars/image/xb6dsj14pmu2jl32z.webp",
+      "created_date": "2026-09-15T10:41:49.057Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T10:41:49.057Z"
     }
   ]
 }
