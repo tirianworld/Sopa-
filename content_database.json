@@ -1,27 +1,7 @@
 {
-  "updated_at": "2026-09-15T11:18:44.719Z",
+  "updated_at": "2026-09-15T11:24:28.211Z",
   "movies": [],
   "series": [
-    {
-      "seasons": 1,
-      "featured": false,
-      "year": "2026",
-      "age_rating": "16",
-      "description": "",
-      "title": "sdds",
-      "thumbnail_url": "",
-      "horizontal_image_url": "",
-      "views": 0,
-      "trailer_url": "",
-      "status": "pending",
-      "tags": [],
-      "id": "6a47f3c413250115d4a88be5",
-      "created_date": "2026-07-03T17:39:16.340000",
-      "updated_date": "2026-07-03T17:39:16.340000",
-      "created_by_id": "6a3e4fb985107a263e0a7665",
-      "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
-    },
     {
       "seasons": 1,
       "featured": false,
@@ -282,7 +262,7 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-15T11:18:43.639Z",
+      "updated_date": "2026-09-15T10:40:55.982Z",
       "featured": false
     },
     {
