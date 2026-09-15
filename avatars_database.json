@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T10:42:29.621Z",
-  "total_avatars": 40,
+  "updated_at": "2026-09-15T10:48:21.472Z",
+  "total_avatars": 41,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -485,6 +485,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-15T10:42:29.388Z"
+    },
+    {
+      "id": "wep660zzmmu2jthon",
+      "name": "Tivuron howtofish avatar",
+      "category": "How to Fish",
+      "image_url": "/api/avatars/image/wep660zzmmu2jthon.webp",
+      "created_date": "2026-09-15T10:48:21.226Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T10:48:21.226Z"
     }
   ]
 }
