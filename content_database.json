@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-09-15T12:02:33.285Z",
+  "updated_at": "2026-09-15T12:03:07.198Z",
   "movies": [],
   "series": [
+    {
+      "seasons": 1,
+      "featured": false,
+      "year": "2026",
+      "age_rating": "16",
+      "description": "",
+      "title": "sdds",
+      "thumbnail_url": "",
+      "horizontal_image_url": "",
+      "views": 0,
+      "trailer_url": "",
+      "status": "pending",
+      "tags": [],
+      "id": "6a47f3c413250115d4a88be5",
+      "created_date": "2026-07-03T17:39:16.340000",
+      "updated_date": "2026-07-03T17:39:16.340000",
+      "created_by_id": "6a3e4fb985107a263e0a7665",
+      "created_by": "superweb.aym.anibal@gmail.com",
+      "is_sample": false
+    },
     {
       "seasons": 1,
       "featured": false,
@@ -52,12 +72,12 @@
       "title": "Escape The Backrooms",
       "thumbnail_url": "https://i.imgur.com/fw5dGlQ.png",
       "horizontal_image_url": "https://i.imgur.com/s1GaZwP.png",
-      "views": 12,
+      "views": 11,
       "status": "approved",
       "tags": [],
       "id": "6a43eb5e32bb136610e6dda2",
       "created_date": "2026-06-30T16:14:22.940000",
-      "updated_date": "2026-09-15T12:02:32.756Z",
+      "updated_date": "2026-09-12T23:16:51.089Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -262,7 +282,7 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-15T10:40:55.982Z",
+      "updated_date": "2026-09-15T11:18:43.639Z",
       "featured": false
     },
     {
@@ -315,11 +335,11 @@
       "excluded_category_ids": [],
       "related_series_ids": [],
       "status": "approved",
-      "views": 11,
+      "views": 12,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T16:59:59.192Z",
-      "updated_date": "2026-09-15T09:03:37.203Z",
+      "updated_date": "2026-09-15T12:03:06.673Z",
       "featured": false
     }
   ],
