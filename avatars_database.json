@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T10:41:21.630Z",
-  "total_avatars": 37,
+  "updated_at": "2026-09-15T10:41:34.572Z",
+  "total_avatars": 38,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -455,6 +455,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-14T10:27:05.771Z"
+    },
+    {
+      "id": "gy3941sn5mu2jkrq9",
+      "name": "Chispo howtofish",
+      "category": "How to Fish",
+      "image_url": "/api/avatars/image/gy3941sn5mu2jkrq9.webp",
+      "created_date": "2026-09-15T10:41:34.353Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T10:41:34.353Z"
     }
   ]
 }
