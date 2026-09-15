@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T11:17:20.473Z",
-  "total_avatars": 42,
+  "updated_at": "2026-09-15T11:18:11.672Z",
+  "total_avatars": 43,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -505,6 +505,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-09-15T11:17:20.185Z"
+    },
+    {
+      "id": "mi6s5pehjmu2kvuz7",
+      "name": "Capitan howtofish",
+      "category": "How to Fish",
+      "image_url": "/api/avatars/image/mi6s5pehjmu2kvuz7.webp",
+      "created_date": "2026-09-15T11:18:11.386Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T11:18:11.386Z"
     }
   ]
 }
