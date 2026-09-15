@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:28:28.304Z",
+  "updated_at": "2026-09-15T10:41:21.630Z",
   "total_avatars": 37,
   "total_parts": 1,
   "part": 1,
@@ -73,6 +73,16 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "updated_date": "2026-08-31T15:39:16.925Z"
+    },
+    {
+      "id": "21qcrj47smu2jkhrl",
+      "name": "How to Fish",
+      "description": "",
+      "color": "#9ef4ff",
+      "created_date": "2026-09-15T10:41:21.393Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-09-15T10:41:21.393Z"
     }
   ],
   "avatars": [
