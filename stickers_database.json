@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-17T08:37:22.243Z",
-  "count": 49,
+  "updated_at": "2026-09-17T08:37:26.706Z",
+  "count": 48,
   "stickers": [
-    {
-      "id": "stk_bund2vm_mu5a0qxu",
-      "name": "Test Cat",
-      "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=128&q=80",
-      "category": "Personalizadas",
-      "tags": [
-        "test",
-        "cat"
-      ],
-      "source": "url",
-      "created_date": "2026-09-17T08:37:22.147Z",
-      "github_synced": true
-    },
     {
       "id": "stk_kappa",
       "name": "Kappa",
