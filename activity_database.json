@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T08:11:35.357Z",
+  "updated_at": "2026-09-18T08:15:07.471Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -111,12 +111,12 @@
       "content_type": "series",
       "series_id": "6a3e7b9f8bd3250673ca6f51",
       "user_id": "user_y2srvc4cu",
-      "position": 95,
-      "duration": 3690,
+      "position": 100,
+      "duration": 3689,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-15T09:17:07.422Z",
-      "updated_date": "2026-09-17T11:33:27.720Z"
+      "updated_date": "2026-09-18T08:15:05.879Z"
     }
   ],
   "myList": [
