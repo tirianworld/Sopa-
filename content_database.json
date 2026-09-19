@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:15:16.790Z",
+  "updated_at": "2026-09-19T23:18:29.921Z",
   "movies": [],
   "series": [
     {
@@ -692,6 +692,22 @@
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T17:14:52.647Z",
       "updated_date": "2026-09-15T09:38:50.315Z"
+    },
+    {
+      "id": "9jpnu4xfvmu90dkxn",
+      "series_id": "6a453c59aab43f0121290bde",
+      "title": "dnd clip recopilation 2026",
+      "description": "",
+      "video_url": "https://youtu.be/zinvwePfbvE?is=ukoR5INuS5g5nRw7",
+      "thumbnail_url": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&hs=AuzV&sca_esv=c2f28d3b49117e12&sxsrf=APpeQnso9AG2kUaOVn0JqnKX0iXto9H91Q:1789859847142&udm=2&fbs=ABfTbFUDadgeu2mn4mYJ8iEZ1GUDd8ABuXxNzQEi57SWOuuPdcURz3vM2j0dknRjZr5tESjVX0ozDC_MzSS9AaRCiJHvwFCq7nl2MSfdY_L_tMXzjoIIcbybKOlu-XayKFxGR6X0lAGjGDXYdDECAOKfzth6px14z9X7t2lGsHnuNFW7eWrCNaU1rZRmMEhfcDbJ_txaiP-z&q=angry+bird+ear+meme&sa=X&sqi=2&ved=2ahUKEwiVwovD4_uWAxUoUaQEHUByErwQtKgLegQIERAB&biw=384&bih=718&dpr=2.81#sv=CAMSVxoyKhBlLVpZQkxvcFo4TzNXQ0tNMg5aWUJMb3BaOE8zV0NLTToOcWJiMGRCaWxjclkyME0gBCoXCgFzEhBlLVpZQkxvcFo4TzNXQ0tNGAEwAUoECAEQAhgHINykua0DSggQAhgBIAIoAQ",
+      "duration": "1:00:05 h",
+      "season": 1,
+      "episode_number": 1,
+      "skip_intro_second": 257,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-19T23:18:29.435Z",
+      "updated_date": "2026-09-19T23:18:29.435Z"
     }
   ],
   "webapps": [
