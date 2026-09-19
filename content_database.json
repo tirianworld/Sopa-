@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:45:40.696Z",
+  "updated_at": "2026-09-19T09:45:51.595Z",
   "movies": [],
   "series": [
     {
@@ -72,12 +72,12 @@
       "title": "Escape The Backrooms",
       "thumbnail_url": "https://i.imgur.com/fw5dGlQ.png",
       "horizontal_image_url": "https://i.imgur.com/s1GaZwP.png",
-      "views": 11,
+      "views": 12,
       "status": "approved",
       "tags": [],
       "id": "6a43eb5e32bb136610e6dda2",
       "created_date": "2026-06-30T16:14:22.940000",
-      "updated_date": "2026-09-12T23:16:51.089Z",
+      "updated_date": "2026-09-19T09:45:21.231Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
