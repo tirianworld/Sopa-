@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:44:26.929Z",
+  "updated_at": "2026-09-20T21:44:47.964Z",
   "movies": [],
   "series": [
     {
@@ -746,14 +746,14 @@
       "title": "¿Como de X eres?",
       "thumbnail_url": "https://i.imgur.com/eI95317.png",
       "horizontal_image_url": "https://i.imgur.com/bDSNiwX.png",
-      "views": 26,
+      "views": 27,
       "status": "approved",
       "tags": [
         "Juego"
       ],
       "id": "6a4536daea4dbb86c8d38ad7",
       "created_date": "2026-07-01T15:48:42.438000",
-      "updated_date": "2026-09-19T15:14:29.510Z",
+      "updated_date": "2026-09-20T21:44:47.525Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
