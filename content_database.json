@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:43:12.122Z",
+  "updated_at": "2026-09-20T21:43:17.722Z",
   "movies": [],
   "series": [
     {
@@ -710,14 +710,14 @@
       "description": "coñe",
       "video_url": "https://youtu.be/zinvwePfbvE?is=ukoR5INuS5g5nRw7",
       "thumbnail_url": "https://i.imgur.com/bRm3ne8.png",
-      "duration": "1:00:05 h",
+      "duration": "3605 s",
       "season": 1,
       "episode_number": 1,
       "skip_intro_second": 257,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-19T23:18:29.435Z",
-      "updated_date": "2026-09-20T19:17:10.859Z"
+      "updated_date": "2026-09-20T21:43:16.328Z"
     },
     {
       "id": "yud6fxr5umua74te5",
