@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:32:43.873Z",
+  "updated_at": "2026-09-20T21:41:56.402Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -48,6 +48,13 @@
       "full_name": "Canva",
       "role": "user",
       "password": "scrypt$e8e5b461700ad91d5ff682e064910de6$a7c01a67a5c9164f24dc817750830742d82eed35e5a304b5f43b40a021134dd79b03fe2b0094e6903784266ee488aaa169bed238aaff16473d23f3cd5eafffa7"
+    },
+    {
+      "id": "user_nr7a4zw6n",
+      "email": "drummondrebecca1@gmail.com",
+      "full_name": "becca",
+      "role": "user",
+      "password": "scrypt$90e21463ed2ab76c446824dec8416a37$973187c64551ef1a2b4bc7fb8a33257fb9d2ab46192926c1450376f36edde590f8cddb21cd987002f3ae7f613384364c03418ecfdd93bd3c98678d766520878b"
     }
   ]
 }
