@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T19:17:11.358Z",
+  "updated_at": "2026-09-20T19:17:54.282Z",
   "movies": [],
   "series": [
     {
@@ -27,7 +27,7 @@
       "featured": false,
       "year": "2026",
       "age_rating": "16",
-      "description": "",
+      "description": "coñe",
       "title": "Dead By Deadlight",
       "thumbnail_url": "https://i.imgur.com/FNfHt4L.png",
       "horizontal_image_url": "https://i.imgur.com/Zq4fSIA.png",
@@ -39,10 +39,20 @@
       ],
       "id": "6a453c59aab43f0121290bde",
       "created_date": "2026-07-01T16:12:09.527000",
-      "updated_date": "2026-09-19T00:51:57.479Z",
+      "updated_date": "2026-09-20T19:17:53.796Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [
+        "6a43eb5e32bb136610e6dda2"
+      ],
+      "category_ids": [
+        "new_series",
+        "coop",
+        "horror",
+        "chill"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
