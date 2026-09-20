@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T18:09:46.311Z",
+  "updated_at": "2026-09-20T19:15:24.484Z",
   "movies": [],
   "series": [
     {
@@ -708,6 +708,22 @@
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-19T23:18:29.435Z",
       "updated_date": "2026-09-19T23:19:47.664Z"
+    },
+    {
+      "id": "yud6fxr5umua74te5",
+      "series_id": "loi58esm1mu027plk",
+      "title": "NO QUERIAN DE NUESTRA SUSTANCIA - EP2",
+      "description": "Otro episodio épico de Schedule I\n",
+      "video_url": "https://www.youtube.com/watch?v=JHXHf0Ca-Cc&t=55s",
+      "thumbnail_url": "https://i.imgur.com/oQubaQ6.png",
+      "duration": "9:45 min",
+      "season": 1,
+      "episode_number": 2,
+      "skip_intro_second": 0,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-20T19:15:23.981Z",
+      "updated_date": "2026-09-20T19:15:23.981Z"
     }
   ],
   "webapps": [
