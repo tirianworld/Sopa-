@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:16:12.974Z",
+  "updated_at": "2026-09-21T09:31:49.167Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -47,7 +47,8 @@
       "email": "legendplayer103@gmail.com",
       "full_name": "Canva",
       "role": "user",
-      "password": "scrypt$e8e5b461700ad91d5ff682e064910de6$a7c01a67a5c9164f24dc817750830742d82eed35e5a304b5f43b40a021134dd79b03fe2b0094e6903784266ee488aaa169bed238aaff16473d23f3cd5eafffa7"
+      "password": "scrypt$e8e5b461700ad91d5ff682e064910de6$a7c01a67a5c9164f24dc817750830742d82eed35e5a304b5f43b40a021134dd79b03fe2b0094e6903784266ee488aaa169bed238aaff16473d23f3cd5eafffa7",
+      "profiles": []
     },
     {
       "id": "user_nr7a4zw6n",
