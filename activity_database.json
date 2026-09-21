@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:47:33.323Z",
+  "updated_at": "2026-09-21T16:42:14.404Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -130,6 +130,19 @@
       "created_by": "legendplayer103@gmail.com",
       "created_date": "2026-09-20T21:46:31.239Z",
       "updated_date": "2026-09-20T21:47:30.825Z"
+    },
+    {
+      "id": "k745y6g31mubh3o34",
+      "content_id": "9jpnu4xfvmu90dkxn",
+      "content_type": "series",
+      "series_id": "6a453c59aab43f0121290bde",
+      "user_id": "user_y2srvc4cu",
+      "position": 257,
+      "duration": 3605,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-21T16:42:12.784Z",
+      "updated_date": "2026-09-21T16:42:12.785Z"
     }
   ],
   "myList": [
