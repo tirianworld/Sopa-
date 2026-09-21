@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:43:46.324Z",
+  "updated_at": "2026-09-21T16:43:55.338Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -177,5 +177,28 @@
       "updated_date": "2026-09-10T13:04:04.367Z"
     }
   ],
-  "downloads": []
+  "downloads": [
+    {
+      "id": "dl_1790009032632_d51j8",
+      "user_id": "user_y2srvc4cu",
+      "content_id": "9jpnu4xfvmu90dkxn",
+      "content_type": "episode",
+      "title": "dbd clip recopilacion 2026",
+      "thumbnail_url": "https://i.imgur.com/bRm3ne8.png",
+      "video_url": "https://youtu.be/zinvwePfbvE?is=ukoR5INuS5g5nRw7",
+      "duration": "1:00:05 h",
+      "file_size_mb": 1.2,
+      "quality": "1080p",
+      "downloaded_date": "2026-09-21T16:43:52.632Z",
+      "series_id": "6a453c59aab43f0121290bde",
+      "series_title": "Dead By Deadlight",
+      "season": 1,
+      "episode_number": 1,
+      "local_blob_key": "blob_9jpnu4xfvmu90dkxn",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-21T16:43:53.744Z",
+      "updated_date": "2026-09-21T16:43:53.744Z"
+    }
+  ]
 }
