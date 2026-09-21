@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T16:38:41.143Z",
+  "updated_at": "2026-09-21T16:39:07.195Z",
   "movies": [],
   "series": [
     {
@@ -663,14 +663,14 @@
       "description": "",
       "video_url": "https://www.youtube.com/watch?v=XhGKD8jaCDI",
       "thumbnail_url": "https://i.imgur.com/UsuWfuY.png",
-      "duration": "18:40 min",
+      "duration": "1121 s",
       "season": 1,
       "episode_number": 1,
       "skip_intro_second": 105,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:23:05.774Z",
-      "updated_date": "2026-09-13T10:23:05.774Z"
+      "updated_date": "2026-09-21T16:39:06.714Z"
     },
     {
       "id": "0l5cs4q80mtzo4d6i",
