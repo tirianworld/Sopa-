@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-09-24T14:51:08.062Z",
+  "id": "6a3e4fb985107a263e0a7665",
+  "email": "superweb.aym.anibal@gmail.com",
+  "full_name": "Aníbal Sopa",
+  "role": "admin",
+  "profiles": [
+    {
+      "id": "p_test_anibal",
+      "name": "Aníbal Principal",
+      "color": "from-[#00D4FF] to-[#9D00FF]",
+      "avatar": "A"
+    }
+  ]
+}
