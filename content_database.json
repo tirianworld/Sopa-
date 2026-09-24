@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:01:28.863Z",
+  "updated_at": "2026-09-24T17:01:30.319Z",
   "movies": [],
   "series": [
     {
@@ -141,12 +141,12 @@
       "title": "Test de Autismo",
       "thumbnail_url": "https://i.imgur.com/lvobLM8.png",
       "horizontal_image_url": "https://i.imgur.com/WNSwdUY.png",
-      "views": 54,
+      "views": 55,
       "status": "approved",
       "tags": [],
       "id": "6a4298b36a93b1ad8806d3fd",
       "created_date": "2026-06-29T16:09:23.957000",
-      "updated_date": "2026-09-24T17:01:19.694Z",
+      "updated_date": "2026-09-24T17:01:20.411Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
