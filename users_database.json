@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:45:17.353Z",
+  "updated_at": "2026-09-24T14:51:09.628Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -7,7 +7,14 @@
       "full_name": "Aníbal Sopa",
       "role": "admin",
       "password": "scrypt$574efd63159541e494a659c4efe3a034$461619a942fa3b8549cd9433e689f0094db90ca57ab16ea1f89922b0c0867fc6d35591974f362ccfaabff807afb891bce2e2e8f6976979a61a9de6579cdf4bb2",
-      "profiles": []
+      "profiles": [
+        {
+          "id": "p_test_anibal",
+          "name": "Aníbal Principal",
+          "color": "from-[#00D4FF] to-[#9D00FF]",
+          "avatar": "A"
+        }
+      ]
     },
     {
       "id": "admin-id",
