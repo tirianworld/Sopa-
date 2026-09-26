@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:04:14.365Z",
+  "updated_at": "2026-09-26T23:01:42.277Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -57,16 +57,7 @@
       "full_name": "Canva",
       "role": "user",
       "password": "scrypt$e8e5b461700ad91d5ff682e064910de6$a7c01a67a5c9164f24dc817750830742d82eed35e5a304b5f43b40a021134dd79b03fe2b0094e6903784266ee488aaa169bed238aaff16473d23f3cd5eafffa7",
-      "profiles": [
-        {
-          "name": "Kanva pero se me olvido",
-          "avatar": "",
-          "avatar_url": "/api/avatars/image/g6ytpz5yrmtek54s6.webp",
-          "color": "from-purple-500 to-indigo-600",
-          "isKids": false,
-          "id": "p_1790460252473_0vhn"
-        }
-      ]
+      "profiles": []
     },
     {
       "id": "user_nr7a4zw6n",
