@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:50:26.512Z",
+  "updated_at": "2026-09-29T18:56:10.163Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -143,6 +143,20 @@
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-21T16:42:12.784Z",
       "updated_date": "2026-09-25T21:50:09.492Z"
+    },
+    {
+      "id": "5cv20kff1mun1ep1w",
+      "content_id": "6a3f986f184bcd2105c1b804",
+      "content_type": "series",
+      "series_id": "6a3f97cec50786d4155ac304",
+      "user_id": "user_y2srvc4cu",
+      "profile_id": "p_1790261708907_aqzr",
+      "position": 5,
+      "duration": 779,
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "created_date": "2026-09-29T18:56:07.508Z",
+      "updated_date": "2026-09-29T18:56:07.508Z"
     }
   ],
   "myList": [
