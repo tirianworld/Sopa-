@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T21:12:58.368Z",
+  "updated_at": "2026-10-18T21:18:53.414Z",
   "movies": [],
   "series": [
     {
@@ -31,7 +31,7 @@
       "title": "Dead By Deadlight",
       "thumbnail_url": "https://i.imgur.com/FNfHt4L.png",
       "horizontal_image_url": "https://i.imgur.com/Zq4fSIA.png",
-      "views": 10,
+      "views": 9,
       "status": "approved",
       "tags": [
         "Terror",
@@ -39,7 +39,7 @@
       ],
       "id": "6a453c59aab43f0121290bde",
       "created_date": "2026-07-01T16:12:09.527000",
-      "updated_date": "2026-10-18T21:11:53.012Z",
+      "updated_date": "2026-10-18T21:10:18.822Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false,
@@ -82,12 +82,12 @@
       "title": "Escape The Backrooms",
       "thumbnail_url": "https://i.imgur.com/fw5dGlQ.png",
       "horizontal_image_url": "https://i.imgur.com/s1GaZwP.png",
-      "views": 14,
+      "views": 12,
       "status": "approved",
       "tags": [],
       "id": "6a43eb5e32bb136610e6dda2",
       "created_date": "2026-06-30T16:14:22.940000",
-      "updated_date": "2026-10-18T21:12:28.061Z",
+      "updated_date": "2026-09-24T17:00:49.780Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -141,12 +141,12 @@
       "title": "Test de Autismo",
       "thumbnail_url": "https://i.imgur.com/lvobLM8.png",
       "horizontal_image_url": "https://i.imgur.com/WNSwdUY.png",
-      "views": 59,
+      "views": 57,
       "status": "approved",
       "tags": [],
       "id": "6a4298b36a93b1ad8806d3fd",
       "created_date": "2026-06-29T16:09:23.957000",
-      "updated_date": "2026-10-18T21:11:31.721Z",
+      "updated_date": "2026-09-24T17:01:23.799Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
@@ -314,11 +314,11 @@
         "6a42abc73d8c27acf84344db"
       ],
       "status": "approved",
-      "views": 3,
+      "views": 1,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:20:46.133Z",
-      "updated_date": "2026-10-18T21:12:57.860Z",
+      "updated_date": "2026-09-14T12:22:17.721Z",
       "featured": false
     },
     {
@@ -345,11 +345,11 @@
       "excluded_category_ids": [],
       "related_series_ids": [],
       "status": "approved",
-      "views": 17,
+      "views": 15,
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T16:59:59.192Z",
-      "updated_date": "2026-10-18T21:12:15.057Z",
+      "updated_date": "2026-10-18T21:04:29.839Z",
       "featured": false
     }
   ],
