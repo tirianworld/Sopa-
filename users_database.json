@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T21:44:43.795Z",
+  "updated_at": "2026-11-24T21:44:50.069Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -98,7 +98,16 @@
       "email": "uopxumfeolnassotdl@kjkpc.net",
       "full_name": "scx",
       "role": "user",
-      "password": "scrypt$a46e8cd352822b61e633e9105d8bb59f$50862f89951257a2e7463233bafd7b0dc46c1354d84ebe877172222373e88bd3dab64897a44e7eba5f4b088d8a41d0188f0b69fa414920ed315c9a5775a0dd65"
+      "password": "scrypt$a46e8cd352822b61e633e9105d8bb59f$50862f89951257a2e7463233bafd7b0dc46c1354d84ebe877172222373e88bd3dab64897a44e7eba5f4b088d8a41d0188f0b69fa414920ed315c9a5775a0dd65",
+      "profiles": [
+        {
+          "name": "strx",
+          "avatar": "S",
+          "color": "from-pink-500 to-rose-600",
+          "isKids": false,
+          "id": "p_1795556649294_196q"
+        }
+      ]
     }
   ]
 }
