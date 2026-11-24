@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-24T20:45:46.661Z",
+  "updated_at": "2026-11-24T20:46:30.367Z",
   "id": "user_qfgidiinf",
   "email": "xenilonso@gmail.com",
   "full_name": "xenia caca",
-  "role": "user"
+  "role": "user",
+  "profiles": [
+    {
+      "name": "stariarx",
+      "avatar": "",
+      "avatar_url": "/api/avatars/image/oivxz8ulpmteimygn.webp",
+      "color": "from-pink-500 to-rose-600",
+      "isKids": false,
+      "id": "p_1795553189226_ruq8"
+    }
+  ]
 }
