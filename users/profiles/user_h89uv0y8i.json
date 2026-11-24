@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-24T22:07:00.462Z",
+  "updated_at": "2026-11-24T22:07:08.754Z",
   "id": "user_h89uv0y8i",
   "email": "ybekxdrsswgivacjry@onldm.net",
   "full_name": "aa",
-  "role": "user"
+  "role": "user",
+  "profiles": [
+    {
+      "name": "asd",
+      "avatar": "A",
+      "color": "from-amber-400 to-orange-500",
+      "isKids": false,
+      "id": "p_1795557989979_9yfx"
+    }
+  ]
 }
