@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T20:46:01.086Z",
+  "updated_at": "2026-11-24T20:46:32.002Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -81,7 +81,17 @@
       "email": "xenilonso@gmail.com",
       "full_name": "xenia caca",
       "role": "user",
-      "password": "scrypt$b09db73af671b6d8115b721cb74dc71d$8e8e0c682ddf8e31f437785b0ad3c8541dca7c288c1b5e4f54196556095e196e0bc4080b40e9afdd3871f07317529839b224e201677c6917deb437c73786036c"
+      "password": "scrypt$b09db73af671b6d8115b721cb74dc71d$8e8e0c682ddf8e31f437785b0ad3c8541dca7c288c1b5e4f54196556095e196e0bc4080b40e9afdd3871f07317529839b224e201677c6917deb437c73786036c",
+      "profiles": [
+        {
+          "name": "stariarx",
+          "avatar": "",
+          "avatar_url": "/api/avatars/image/oivxz8ulpmteimygn.webp",
+          "color": "from-pink-500 to-rose-600",
+          "isKids": false,
+          "id": "p_1795553189226_ruq8"
+        }
+      ]
     }
   ]
 }
