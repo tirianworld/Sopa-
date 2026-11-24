@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:07:04.693Z",
+  "updated_at": "2026-11-24T22:07:11.210Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -114,7 +114,16 @@
       "email": "ybekxdrsswgivacjry@onldm.net",
       "full_name": "aa",
       "role": "user",
-      "password": "scrypt$38619c772b72347ec3276d128b575996$1e4c86d91071a7b1a23fe87d8c2ee1e9a485edcf30de1dc58d9d2fc79b4e5d68777e35fa5f8f9dd5f098692b6ed49f0c016518115f3e86ca5bf0fae0ba36f3b3"
+      "password": "scrypt$38619c772b72347ec3276d128b575996$1e4c86d91071a7b1a23fe87d8c2ee1e9a485edcf30de1dc58d9d2fc79b4e5d68777e35fa5f8f9dd5f098692b6ed49f0c016518115f3e86ca5bf0fae0ba36f3b3",
+      "profiles": [
+        {
+          "name": "asd",
+          "avatar": "A",
+          "color": "from-amber-400 to-orange-500",
+          "isKids": false,
+          "id": "p_1795557989979_9yfx"
+        }
+      ]
     }
   ]
 }
