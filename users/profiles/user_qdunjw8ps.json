@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-24T21:44:35.725Z",
+  "updated_at": "2026-11-24T21:44:48.776Z",
   "id": "user_qdunjw8ps",
   "email": "uopxumfeolnassotdl@kjkpc.net",
   "full_name": "scx",
-  "role": "user"
+  "role": "user",
+  "profiles": [
+    {
+      "name": "strx",
+      "avatar": "S",
+      "color": "from-pink-500 to-rose-600",
+      "isKids": false,
+      "id": "p_1795556649294_196q"
+    }
+  ]
 }
