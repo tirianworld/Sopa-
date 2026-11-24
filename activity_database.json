@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:02:22.701Z",
+  "updated_at": "2026-11-24T22:02:26.003Z",
   "watchProgress": [
     {
       "id": "ibvxgks5dmtqdgqz1",
@@ -203,6 +203,17 @@
       "user_id": "user_y2srvc4cu",
       "created_date": "2026-09-10T13:04:04.367Z",
       "updated_date": "2026-09-10T13:04:04.367Z"
+    },
+    {
+      "id": "q2wal8atemwv8pxge",
+      "content_id": "6a3e7b9f8bd3250673ca6f51",
+      "content_type": "series",
+      "user_id": "user_qdunjw8ps",
+      "created_by_id": "user_qdunjw8ps",
+      "created_by": "uopxumfeolnassotdl@kjkpc.net",
+      "profile_id": "p_1795556649294_196q",
+      "created_date": "2026-11-24T22:02:23.006Z",
+      "updated_date": "2026-11-24T22:02:23.006Z"
     }
   ],
   "downloads": [
