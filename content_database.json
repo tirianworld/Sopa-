@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:08:30.051Z",
+  "updated_at": "2026-11-25T11:08:38.630Z",
   "movies": [],
   "series": [
     {
@@ -308,7 +308,7 @@
       "id": "jjeoy7fjqmtznybat",
       "title": "Hollow Knight Con GILGAMESH",
       "description": "Un Joven Jaime se embarca en una aventura para explorar el mundo de Hallownest.",
-      "thumbnail_url": "https://i.imgur.com/o71Ssem.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/b3SyETC.png",
       "year": "2026",
       "age_rating": "7",
@@ -327,8 +327,15 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-13T10:20:46.133Z",
-      "updated_date": "2026-10-18T21:12:57.860Z",
-      "featured": false
+      "updated_date": "2026-11-25T11:08:37.020Z",
+      "featured": false,
+      "category_ids": [
+        "new_series",
+        "chill",
+        "solo",
+        "action"
+      ],
+      "excluded_category_ids": []
     },
     {
       "id": "loi58esm1mu027plk",
