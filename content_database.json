@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:09:10.108Z",
+  "updated_at": "2026-11-25T11:09:23.590Z",
   "movies": [],
   "series": [
     {
@@ -771,9 +771,9 @@
       "web_url": "https://test-master-copy-e427d123.base44.app",
       "year": "2026",
       "age_rating": "7",
-      "description": "",
+      "description": "whya",
       "title": "¿Como de X eres?",
-      "thumbnail_url": "https://i.imgur.com/eI95317.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/bDSNiwX.png",
       "views": 28,
       "status": "approved",
@@ -782,7 +782,7 @@
       ],
       "id": "6a4536daea4dbb86c8d38ad7",
       "created_date": "2026-07-01T15:48:42.438000",
-      "updated_date": "2026-09-20T21:45:00.283Z",
+      "updated_date": "2026-11-25T11:09:22.265Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
