@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:47:44.363Z",
+  "updated_at": "2026-11-25T15:58:30.524Z",
   "movies": [],
   "series": [
     {
@@ -293,11 +293,11 @@
       "thumbnail_url": "https://i.imgur.com/K9kKzOi.png",
       "horizontal_image_url": "https://i.imgur.com/VqU5TRO.png",
       "views": 25,
-      "status": "approved",
+      "status": "pending",
       "tags": [],
       "id": "6a3e50d7e936b779ece0952f",
       "created_date": "2026-06-26T10:13:43.807000",
-      "updated_date": "2026-11-25T15:19:34.988Z",
+      "updated_date": "2026-11-25T15:57:36.398Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false,
@@ -406,26 +406,6 @@
       "created_date": "2026-09-13T16:59:59.192Z",
       "updated_date": "2026-11-25T11:23:52.134Z",
       "featured": false
-    },
-    {
-      "seasons": 1,
-      "featured": false,
-      "year": "2026",
-      "age_rating": "16",
-      "description": "",
-      "title": "sdds",
-      "thumbnail_url": "",
-      "horizontal_image_url": "",
-      "views": 2,
-      "trailer_url": "",
-      "status": "approved",
-      "tags": [],
-      "id": "6a47f3c413250115d4a88be5",
-      "created_date": "2026-07-03T17:39:16.340000",
-      "updated_date": "2026-11-25T15:18:14.591Z",
-      "created_by_id": "6a3e4fb985107a263e0a7665",
-      "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
     },
     {
       "seasons": 1,
