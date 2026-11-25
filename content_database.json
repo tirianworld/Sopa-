@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:09:48.001Z",
+  "updated_at": "2026-11-25T11:10:01.771Z",
   "movies": [],
   "series": [
     {
@@ -85,19 +85,26 @@
       "featured": false,
       "year": "2026",
       "age_rating": "16",
-      "description": "",
+      "description": "4uw6",
       "title": "Escape The Backrooms",
-      "thumbnail_url": "https://i.imgur.com/fw5dGlQ.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/s1GaZwP.png",
       "views": 14,
       "status": "approved",
       "tags": [],
       "id": "6a43eb5e32bb136610e6dda2",
       "created_date": "2026-06-30T16:14:22.940000",
-      "updated_date": "2026-10-18T21:12:28.061Z",
+      "updated_date": "2026-11-25T11:09:59.752Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "coop",
+        "horror"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
