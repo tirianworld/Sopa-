@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:11:11.732Z",
+  "updated_at": "2026-11-25T11:11:20.804Z",
   "movies": [],
   "series": [
     {
@@ -338,17 +338,26 @@
       "age_rating": "16",
       "description": "En las aulas de la Academia Real de Moonhaven, la reina Aeliana dedica su vida a preservar la historia de un mundo marcado por guerras divinas, héroes legendarios y secretos que jamás debieron ser descubiertos. Frente a una nueva generación de estudiantes, abre antiguos grimorios y reconstruye los acontecimientos que dieron forma al destino del multiverso. ¿Qué Coño Es? es una serie documental ambientada en el universo de Caldo de Dragón que explora el lore de la campaña a través de los ojos de Aeliana, Reina de Moonhaven. Desde el origen de la magia y los dragones ancestrales hasta la Guerra del Averno, el Consejo Omega y las figuras más influyentes de la historia, cada episodio desentraña un misterio, una leyenda o una pregunta que todo aventurero acaba haciéndose.",
       "title": "¿Que coño es? D&D Edition",
-      "thumbnail_url": "https://i.imgur.com/K9kKzOi.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/VqU5TRO.png",
       "views": 23,
       "status": "approved",
       "tags": [],
       "id": "6a3e50d7e936b779ece0952f",
       "created_date": "2026-06-26T10:13:43.807000",
-      "updated_date": "2026-11-25T11:06:09.179Z",
+      "updated_date": "2026-11-25T11:11:18.858Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "horror",
+        "dnd",
+        "solo",
+        "action"
+      ],
+      "excluded_category_ids": []
     },
     {
       "id": "i6e7110nymtvj7fbt",
