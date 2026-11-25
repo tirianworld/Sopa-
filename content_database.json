@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:10:35.215Z",
+  "updated_at": "2026-11-25T11:10:46.398Z",
   "movies": [],
   "series": [
     {
@@ -192,9 +192,9 @@
       "featured": false,
       "year": "2026",
       "age_rating": "7",
-      "description": "",
+      "description": "yq35",
       "title": "Mazmorreo en WoW",
-      "thumbnail_url": "https://i.imgur.com/qFRUSGa.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/TLdeWqH.png",
       "views": 29,
       "trailer_url": null,
@@ -202,10 +202,16 @@
       "tags": [],
       "id": "6a4060fd82bb14418f6c19fa",
       "created_date": "2026-06-27T23:47:09.946000",
-      "updated_date": "2026-09-24T17:01:04.306Z",
+      "updated_date": "2026-11-25T11:10:45.311Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "dnd"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
