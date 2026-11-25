@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25T11:12:24.041Z",
+  "updated_at": "2026-11-25T11:12:42.484Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
       "email": "superweb.aym.anibal@gmail.com",
       "full_name": "Aníbal Sopa",
       "role": "admin",
-      "password": "scrypt$3969481603ca800ca6b54caaf08d66d9$b0fc7d3980c0af2c14bb4574acfea8d544c93a8d9360b4d8b421ed1a05c2c71d4bcc582b5dbbda93b0e3e757b2d403da18c7a67e25311932d4397cab811d919c",
+      "password": "scrypt$060faf74ee959efd32ba52dc6f1e31a2$f127d84415646e188a9173d41f4cde9d3edeb4ec366045b320e3353cec4b6808a029c712a04007ad85d7c81d73c49f2e6dde3ae9dca6ab4586d239d1323934d3",
       "profiles": []
     },
     {
