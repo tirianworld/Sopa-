@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:52:54.405Z",
+  "updated_at": "2026-11-25T13:11:01.753Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -147,6 +147,13 @@
       "full_name": "Bro",
       "role": "user",
       "password": "scrypt$e3175f7eb92c2401249490dd29739edc$52d49df948bdd32e509badf9e65e2320881f1fff7daf2fddef6ee7dd497368731dc2541e87af58a7773ad3a7de0e1854cc6b76ebbf567f57473d6a98c9097333"
+    },
+    {
+      "id": "user_jst7lhy9e",
+      "email": "rubenhgh@gmail.com",
+      "full_name": "ruben hernando gomez",
+      "role": "user",
+      "password": "scrypt$c90086d4e85b9e4a1c6b179476492d33$a44a8dbb0f64d82f419f925bb901676043f36d664a65928a27ac9d465fc1e82c59384407e8c9da762c0fee9790c8b3fd6024e07acac6d50e98b9b6c416a1b1a7"
     }
   ]
 }
