@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-11-25T10:18:08.820Z",
+  "updated_at": "2026-11-25T10:18:54.833Z",
   "id": "user_98s6qn6sm",
   "email": "qepvqavnbbrvghnpuz@jbsze.com",
   "full_name": "kkk",
-  "role": "user"
+  "role": "user",
+  "profiles": [
+    {
+      "name": "fdghgfd",
+      "avatar": "F",
+      "color": "from-pink-500 to-rose-600",
+      "isKids": false,
+      "id": "p_1795601862633_s2pb"
+    }
+  ]
 }
