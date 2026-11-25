@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-25T13:10:57.083Z",
+  "updated_at": "2026-11-25T13:11:16.767Z",
   "id": "user_jst7lhy9e",
   "email": "rubenhgh@gmail.com",
   "full_name": "ruben hernando gomez",
-  "role": "user"
+  "role": "user",
+  "profiles": [
+    {
+      "name": "hola",
+      "avatar": "",
+      "avatar_url": "/api/avatars/image/5w63j7wx3mteioucw.webp",
+      "color": "from-[#00D4FF] to-[#9D00FF]",
+      "isKids": false,
+      "id": "p_1795612277347_6okc"
+    }
+  ]
 }
