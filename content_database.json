@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:10:46.398Z",
+  "updated_at": "2026-11-25T11:10:55.585Z",
   "movies": [],
   "series": [
     {
@@ -220,7 +220,7 @@
       "age_rating": "18",
       "description": "Lo que comienza como una simple búsqueda se transforma en una lucha desesperada por la supervivencia cuando los gnomos revelan su auténtica naturaleza. Alianzas se rompen, jugadores caen y una pregunta resuena en los pasillos de la casa:\n\n¿Quién acecha realmente a quién?",
       "title": "BURGLIN GNOMES",
-      "thumbnail_url": "https://i.imgur.com/IP83SMo.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/vo6h8xp.png",
       "views": 111,
       "trailer_url": "https://youtu.be/h43bHXcpXeo",
@@ -228,10 +228,20 @@
       "tags": [],
       "id": "6a3f97cec50786d4155ac304",
       "created_date": "2026-06-27T09:28:46.552000",
-      "updated_date": "2026-10-18T02:42:57.065Z",
+      "updated_date": "2026-11-25T11:10:54.193Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "coop",
+        "horror",
+        "chill",
+        "action",
+        "strategy"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
