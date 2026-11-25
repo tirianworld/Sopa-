@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:11:03.713Z",
+  "updated_at": "2026-11-25T11:11:11.732Z",
   "movies": [],
   "series": [
     {
@@ -309,7 +309,7 @@
       "age_rating": "16",
       "description": "Cuando el legendario guerrero de madera Tung Tung Tung Sahur es derrotado por primera vez, descubre que su destino no es proteger el Japón feudal... sino sobrevivir al mayor brainrot jamás concebido. Armando deberá dominar el arte del parry perfecto, enfrentarse a jefes imposibles y aceptar que cada derrota es una nueva oportunidad para escuchar \"Tung Tung Tung Sahur\" una vez más.\n\nA lo largo de su viaje, samuráis, monstruos y criaturas ancestrales descubrirán que enfrentarse al Lobo era una cosa... pero enfrentarse a un tronco con un bate dispuesto a romper todas las reglas del universo es otra muy distinta. Basada en una partida de Sekiro: Shadows Die Twice protagonizada por el icónico personaje del meme, convertido en un mod jugable.",
       "title": " Sekiro Sopa dies twice",
-      "thumbnail_url": "https://i.imgur.com/i3eWYFc.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/GJPLPJm.png",
       "views": 53,
       "trailer_url": "https://youtu.be/WbxARQQcsBU",
@@ -317,10 +317,19 @@
       "tags": [],
       "id": "6a3e5a9b369176346576fdff",
       "created_date": "2026-06-26T10:55:23.507000",
-      "updated_date": "2026-11-24T22:13:34.565Z",
+      "updated_date": "2026-11-25T11:11:10.427Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "horror",
+        "chill",
+        "solo",
+        "action"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
