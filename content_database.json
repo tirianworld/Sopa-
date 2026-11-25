@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:09:23.590Z",
+  "updated_at": "2026-11-25T11:09:36.837Z",
   "movies": [],
   "series": [
     {
@@ -794,7 +794,7 @@
       "age_rating": "16",
       "description": "Wikipedia de caldo de dragón",
       "title": "Libro de Tarot",
-      "thumbnail_url": "https://i.imgur.com/eEepkGU.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/kyiSemE.png",
       "views": 19,
       "status": "approved",
@@ -803,7 +803,7 @@
       ],
       "id": "6a44ec88acfb90cb56dc4b44",
       "created_date": "2026-07-01T10:31:36.198000",
-      "updated_date": "2026-11-25T10:20:47.765Z",
+      "updated_date": "2026-11-25T11:09:35.424Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
