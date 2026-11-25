@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T15:40:49.562Z",
-  "total_avatars": 46,
+  "updated_at": "2026-11-25T15:41:55.504Z",
+  "total_avatars": 49,
   "total_parts": 1,
   "part": 1,
   "categories": [
@@ -553,6 +553,36 @@
       "image_url": "/api/avatars/image/rhvsytvwpmtwu7v4r.webp",
       "created_date": "2026-09-11T10:52:51.804Z",
       "updated_date": "2026-09-11T10:52:51.804Z"
+    },
+    {
+      "id": "sopa1mwwakib4",
+      "name": "Sopa Clásico",
+      "category": "Sopa",
+      "image_url": "/api/avatars/image/sopa1mwwakib4.webp",
+      "created_date": "2026-11-25T15:41:55.504Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-11-25T15:41:55.504Z"
+    },
+    {
+      "id": "sopa2mwwakib4",
+      "name": "Sopa Gamer",
+      "category": "Sopa",
+      "image_url": "/api/avatars/image/sopa2mwwakib4.webp",
+      "created_date": "2026-11-25T15:41:55.504Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-11-25T15:41:55.504Z"
+    },
+    {
+      "id": "sopa3mwwakib4",
+      "name": "Sopa Flow",
+      "category": "Sopa",
+      "image_url": "/api/avatars/image/sopa3mwwakib4.webp",
+      "created_date": "2026-11-25T15:41:55.504Z",
+      "created_by_id": "user_y2srvc4cu",
+      "created_by": "norastreable@gmail.com",
+      "updated_date": "2026-11-25T15:41:55.504Z"
     }
   ]
 }
