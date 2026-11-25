@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:10:24.688Z",
+  "updated_at": "2026-11-25T11:10:35.215Z",
   "movies": [],
   "series": [
     {
@@ -139,9 +139,9 @@
       "featured": false,
       "year": "2026",
       "age_rating": "16",
-      "description": "",
+      "description": "ha",
       "title": "Dos TONTOS desactivan una BOMBA....",
-      "thumbnail_url": "https://i.imgur.com/nhi8FrP.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/WWvjctZ.png",
       "views": 25,
       "trailer_url": null,
@@ -149,10 +149,17 @@
       "tags": [],
       "id": "6a42a5043e4134332f4c81e1",
       "created_date": "2026-06-29T17:01:56.808000",
-      "updated_date": "2026-09-21T16:17:00.624Z",
+      "updated_date": "2026-11-25T11:10:34.012Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "coop",
+        "chill"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
