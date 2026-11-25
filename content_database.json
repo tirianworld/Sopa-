@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:18:00.728Z",
+  "updated_at": "2026-11-25T15:18:13.705Z",
   "movies": [],
   "series": [
     {
@@ -293,11 +293,11 @@
       "thumbnail_url": "https://i.imgur.com/K9kKzOi.png",
       "horizontal_image_url": "https://i.imgur.com/VqU5TRO.png",
       "views": 23,
-      "status": "approved",
+      "status": "pending",
       "tags": [],
       "id": "6a3e50d7e936b779ece0952f",
       "created_date": "2026-06-26T10:13:43.807000",
-      "updated_date": "2026-11-25T13:10:13.187Z",
+      "updated_date": "2026-11-25T15:18:13.216Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false,
@@ -416,13 +416,13 @@
       "title": "sdds",
       "thumbnail_url": "",
       "horizontal_image_url": "",
-      "views": 1,
+      "views": 0,
       "trailer_url": "",
       "status": "approved",
       "tags": [],
       "id": "6a47f3c413250115d4a88be5",
       "created_date": "2026-07-03T17:39:16.340000",
-      "updated_date": "2026-11-25T15:18:00.276Z",
+      "updated_date": "2026-11-25T13:10:15.751Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
