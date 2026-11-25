@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:59:04.474Z",
+  "updated_at": "2026-11-25T11:07:27.914Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -14,7 +14,7 @@
       "email": "admin@sopa.com",
       "full_name": "Aníbal Sopa",
       "role": "admin",
-      "password": "scrypt$73cbdacd14354d8207c023d360783ffe$be1076eaab08cb7089d6e2cdefc7dfa681dc5135d69fe709a690a5ca1f954e5fadb5307417e07fd362cdfb2797e20568eaaf337eaaa68d13315b41acd61d4ef9",
+      "password": "scrypt$197866ad71e8c6600a7be8d64a6ae6ef$cc76d5569f3c86a4ba7240231ef8cf0848cc34d198e8865b8d8b241833180bc041b36858a0b2570f4085b0f2b57eb06ed1090bb7c99d973632a14008ca4d51cd",
       "profiles": []
     },
     {
