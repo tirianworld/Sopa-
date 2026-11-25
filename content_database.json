@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:09:36.837Z",
+  "updated_at": "2026-11-25T11:09:48.001Z",
   "movies": [],
   "series": [
     {
@@ -813,9 +813,9 @@
       "web_url": "https://carto-craft-copy-a9ab7198.base44.app",
       "year": "2026",
       "age_rating": "16",
-      "description": "",
+      "description": "rtgqw",
       "title": "Atlas del Multiverso",
-      "thumbnail_url": "https://i.imgur.com/fBulUy0.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/cCJ0TYl.png",
       "views": 27,
       "status": "approved",
@@ -824,7 +824,7 @@
       ],
       "id": "6a44e6350f31c681a5f654f7",
       "created_date": "2026-07-01T10:04:37.816000",
-      "updated_date": "2026-09-21T16:20:13.015Z",
+      "updated_date": "2026-11-25T11:09:46.542Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false
