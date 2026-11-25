@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:40:39.673Z",
+  "updated_at": "2026-11-25T12:52:54.405Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -140,6 +140,13 @@
           "id": "p_1795601862633_s2pb"
         }
       ]
+    },
+    {
+      "id": "user_c47jyohih",
+      "email": "bro@g",
+      "full_name": "Bro",
+      "role": "user",
+      "password": "scrypt$e3175f7eb92c2401249490dd29739edc$52d49df948bdd32e509badf9e65e2320881f1fff7daf2fddef6ee7dd497368731dc2541e87af58a7773ad3a7de0e1854cc6b76ebbf567f57473d6a98c9097333"
     }
   ]
 }
