@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T13:11:01.753Z",
+  "updated_at": "2026-11-25T13:11:18.170Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -153,7 +153,17 @@
       "email": "rubenhgh@gmail.com",
       "full_name": "ruben hernando gomez",
       "role": "user",
-      "password": "scrypt$c90086d4e85b9e4a1c6b179476492d33$a44a8dbb0f64d82f419f925bb901676043f36d664a65928a27ac9d465fc1e82c59384407e8c9da762c0fee9790c8b3fd6024e07acac6d50e98b9b6c416a1b1a7"
+      "password": "scrypt$c90086d4e85b9e4a1c6b179476492d33$a44a8dbb0f64d82f419f925bb901676043f36d664a65928a27ac9d465fc1e82c59384407e8c9da762c0fee9790c8b3fd6024e07acac6d50e98b9b6c416a1b1a7",
+      "profiles": [
+        {
+          "name": "hola",
+          "avatar": "",
+          "avatar_url": "/api/avatars/image/5w63j7wx3mteioucw.webp",
+          "color": "from-[#00D4FF] to-[#9D00FF]",
+          "isKids": false,
+          "id": "p_1795612277347_6okc"
+        }
+      ]
     }
   ]
 }
