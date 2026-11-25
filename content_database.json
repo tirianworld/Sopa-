@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:10:01.771Z",
+  "updated_at": "2026-11-25T11:10:16.571Z",
   "movies": [],
   "series": [
     {
@@ -151,19 +151,26 @@
       "featured": false,
       "year": "2026",
       "age_rating": "13",
-      "description": "",
+      "description": "yqa",
       "title": "Test de Autismo",
-      "thumbnail_url": "https://i.imgur.com/lvobLM8.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/WNSwdUY.png",
       "views": 60,
       "status": "approved",
       "tags": [],
       "id": "6a4298b36a93b1ad8806d3fd",
       "created_date": "2026-06-29T16:09:23.957000",
-      "updated_date": "2026-11-24T20:46:38.635Z",
+      "updated_date": "2026-11-25T11:10:15.004Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "chill",
+        "solo"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
