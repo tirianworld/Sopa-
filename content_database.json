@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:08:47.210Z",
+  "updated_at": "2026-11-25T11:08:56.750Z",
   "movies": [],
   "series": [
     {
@@ -29,7 +29,7 @@
       "age_rating": "16",
       "description": "coñe",
       "title": "Dead By Deadlight",
-      "thumbnail_url": "https://i.imgur.com/FNfHt4L.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/Zq4fSIA.png",
       "views": 10,
       "status": "approved",
@@ -39,7 +39,7 @@
       ],
       "id": "6a453c59aab43f0121290bde",
       "created_date": "2026-07-01T16:12:09.527000",
-      "updated_date": "2026-10-18T21:11:53.012Z",
+      "updated_date": "2026-11-25T11:08:55.034Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
       "is_sample": false,
