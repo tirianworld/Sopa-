@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:59:32.723Z",
+  "updated_at": "2026-11-25T11:02:05.974Z",
   "movies": [],
   "series": [
     {
@@ -197,18 +197,27 @@
       "year": "2026",
       "age_rating": "16",
       "description": "En los confines del Multiverso de Dungeons & Dragons existen mundos imposibles, dioses olvidados, ciudades suspendidas entre planos y horrores capaces de devorar la realidad. La mayoría de aventureros jamás los verán. Equipado con tecnología capaz de atravesar las fronteras de la existencia, Zer0 emprende un viaje sin precedentes a través de los Planos Exteriores, los reinos divinos y los rincones más extraños del cosmos fantástico. Desde las infinitas calles de Sigil hasta las profundidades del Plano Elemental del Agua, cada episodio revela la historia, los secretos y los peligros de los lugares más legendarios de D&D.",
-      "title": "Explorando el Multiverso",
-      "thumbnail_url": "https://i.imgur.com/5Hy2j7z.png",
-      "horizontal_image_url": "https://i.imgur.com/wmQd1AG.png",
+      "title": "Caca",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
+      "horizontal_image_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "views": 22,
       "status": "pending",
       "tags": [],
       "id": "6a3e9acb09831d0c6537bdf9",
       "created_date": "2026-06-26T15:29:15.179000",
-      "updated_date": "2026-09-18T21:49:35.013Z",
+      "updated_date": "2026-11-25T11:02:04.163Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "horror",
+        "dnd",
+        "solo",
+        "action"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
