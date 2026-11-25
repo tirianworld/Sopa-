@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:10:16.571Z",
+  "updated_at": "2026-11-25T11:10:24.688Z",
   "movies": [],
   "series": [
     {
@@ -113,7 +113,7 @@
       "age_rating": "16",
       "description": "Cuando cae la noche y todo el mundo espera que Armando se vaya a la cama, él toma una decisión mucho más arriesgada: echarse un \"Balatrito Balatrez\". Lo que comienza como una inocente partida antes de dormir se convierte en una espiral de comodines imposibles, estrategias cuestionables y la firme promesa de que \"esta es la última mano\". Mientras las horas desaparecen y el sueño pierde la partida, Armando se adentra cada vez más en el hipnótico mundo de Balatro, demostrando que dormir es temporal, pero los puntos son eternos. Inspirado en el popular meme \"Balatro Balatrez está jugando a Balatro\".",
       "title": "Balatro",
-      "thumbnail_url": "https://i.imgur.com/W3pUf8R.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/Tnnii1s.png",
       "views": 16,
       "trailer_url": null,
@@ -121,10 +121,18 @@
       "tags": [],
       "id": "6a42abc73d8c27acf84344db",
       "created_date": "2026-06-29T17:30:47.323000",
-      "updated_date": "2026-10-18T21:09:54.486Z",
+      "updated_date": "2026-11-25T11:10:23.291Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "chill",
+        "solo",
+        "strategy"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
