@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:57:55.771Z",
+  "updated_at": "2026-11-25T11:14:11.611Z",
   "fonts": [
     {
       "id": "k33xzvmidmtfrrjhx",
@@ -195,8 +195,8 @@
     }
   ],
   "config": {
-    "avatar_title_font_id": "font_bebas",
-    "avatar_title_font_family": "Bebas Neue",
+    "avatar_title_font_id": "87lc2c5mkmtfrz6fi",
+    "avatar_title_font_family": "AlphabitSoupRegular",
     "letter_spacing": "0.06em",
     "text_transform": "uppercase",
     "font_weight": "800",
@@ -212,6 +212,6 @@
       "how to fish": "z4257byosmu2l2ug3",
       "schedule i": "cvdt7bisymu2lk0ma"
     },
-    "updated_date": "2026-09-15T11:37:06.065Z"
+    "updated_date": "2026-11-25T11:14:11.406Z"
   }
 }
