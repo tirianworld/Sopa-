@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:08:38.630Z",
+  "updated_at": "2026-11-25T11:08:47.210Z",
   "movies": [],
   "series": [
     {
@@ -282,7 +282,7 @@
       "id": "i6e7110nymtvj7fbt",
       "title": "La gran Pesca",
       "description": "Sopa se va de pesca, y entre violencia, pescado y dinamita, lograrán escapar de las islas en las que han acabado?",
-      "thumbnail_url": "https://i.imgur.com/j7coAis.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/lE8CqgB.png",
       "year": "2026",
       "age_rating": "13",
@@ -301,8 +301,14 @@
       "created_by_id": "user_y2srvc4cu",
       "created_by": "norastreable@gmail.com",
       "created_date": "2026-09-10T12:56:48.473Z",
-      "updated_date": "2026-09-20T21:43:10.950Z",
-      "featured": false
+      "updated_date": "2026-11-25T11:08:45.842Z",
+      "featured": false,
+      "category_ids": [
+        "new_series",
+        "horror",
+        "chill"
+      ],
+      "excluded_category_ids": []
     },
     {
       "id": "jjeoy7fjqmtznybat",
