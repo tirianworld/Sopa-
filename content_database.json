@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T11:10:55.585Z",
+  "updated_at": "2026-11-25T11:11:03.713Z",
   "movies": [],
   "series": [
     {
@@ -278,7 +278,7 @@
       "age_rating": "16",
       "description": "En esta disparatada aventura multijugador, el grupo de Sopa se adentra en caóticas partida de Muck*donde absolutamente todo puede salir mal… y normalmente sale peor. Mientras Zero Nada muere una y otra vez de las formas más absurdas posibles, Rankey parece bendecido por una suerte casi sobrenatural que deja al resto del equipo completamente incrédulo. Por otro lado, Getafe y Canva deciden separarse del grupo para embarcarse en aventuras en solitario tan impredecibles como peligrosas. Entre traiciones accidentales, supervivencia imposible y momentos de puro caos, estas partidas terminará convirtiéndose en una experiencia tan épica como ridícula.",
       "title": "Muck",
-      "thumbnail_url": "https://i.imgur.com/MlMrIfy.png",
+      "thumbnail_url": "https://www.soyvisual.org/sites/default/files/styles/facebook_og/public/images/photos/ase_0037.jpg?itok=_dh2dodj",
       "horizontal_image_url": "https://i.imgur.com/SrF9yiZ.png",
       "views": 147,
       "trailer_url": "https://youtu.be/akh3qI_qyEM",
@@ -286,10 +286,21 @@
       "tags": [],
       "id": "6a3e7b9f8bd3250673ca6f51",
       "created_date": "2026-06-26T13:16:15.549000",
-      "updated_date": "2026-11-25T10:59:32.261Z",
+      "updated_date": "2026-11-25T11:11:02.338Z",
       "created_by_id": "6a3e4fb985107a263e0a7665",
       "created_by": "superweb.aym.anibal@gmail.com",
-      "is_sample": false
+      "is_sample": false,
+      "related_series_ids": [],
+      "category_ids": [
+        "new_series",
+        "coop",
+        "horror",
+        "chill",
+        "solo",
+        "action",
+        "strategy"
+      ],
+      "excluded_category_ids": []
     },
     {
       "seasons": 1,
