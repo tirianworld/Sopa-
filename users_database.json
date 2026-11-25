@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:18:40.905Z",
+  "updated_at": "2026-11-25T10:18:55.998Z",
   "users": [
     {
       "id": "6a3e4fb985107a263e0a7665",
@@ -130,7 +130,16 @@
       "email": "qepvqavnbbrvghnpuz@jbsze.com",
       "full_name": "kkk",
       "role": "user",
-      "password": "scrypt$71b206825f4d97d681e6a3f13fd1f55b$b7da6ee96d1e36fad4f5ccbd06fd503bafcefe40cd0425fff12a1ebeac584ec36e9bd9af20cedbdd7382843b5494148bb993414d99685f39224eabef6f183b40"
+      "password": "scrypt$71b206825f4d97d681e6a3f13fd1f55b$b7da6ee96d1e36fad4f5ccbd06fd503bafcefe40cd0425fff12a1ebeac584ec36e9bd9af20cedbdd7382843b5494148bb993414d99685f39224eabef6f183b40",
+      "profiles": [
+        {
+          "name": "fdghgfd",
+          "avatar": "F",
+          "color": "from-pink-500 to-rose-600",
+          "isKids": false,
+          "id": "p_1795601862633_s2pb"
+        }
+      ]
     }
   ]
 }
